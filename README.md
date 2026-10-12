@@ -35,4 +35,4 @@ vercel --prod
 ```
 
 ## Cakupan v1
-N5 24/24/10, N4 22/18/8, N3 61/30/17, N2 63/28/16 — total 170 kanji, 100 kotoba, 51 bunpou, 10 dokkai, 9 choukai, 39 quiz
+N5 24/24/10, N4 22/18/8, N3 77/36/19, N2 76/32/18 — total 199 kanji, 110 kotoba, 55 bunpou, 10 dokkai, 9 choukai, 39 quiz

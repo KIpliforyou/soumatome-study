@@ -1,8 +1,11 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
+import { Baloo_2, Nunito } from "next/font/google";
 import "./globals.css";
 
-export const viewport = { themeColor: "#ef4444" };
+const display = Baloo_2({ variable: "--font-display", subsets: ["latin"], weight: ["500","600","700","800"] });
+const body = Nunito({ variable: "--font-body", subsets: ["latin"], weight: ["400","600","700","800"] });
 
+export const viewport: Viewport = { themeColor: "#2d7ff9", width: "device-width", initialScale: 1 };
 export const metadata: Metadata = {
   title: "Soumatome Study — Belajar JLPT N5-N2",
   description: "Belajar Bahasa Jepang terstruktur untuk JLPT N5-N2: Kanji, Kotoba, Bunpou, Dokkai, Choukai. SRS, Kuis, Progres.",
@@ -11,13 +14,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="id" suppressHydrationWarning>
+    <html lang="id" suppressHydrationWarning className={`${display.variable} ${body.variable}`}>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        {/* eslint-disable-next-line @next/next/no-page-custom-font */}
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@600&display=swap" rel="stylesheet" />
-        <script dangerouslySetInnerHTML={{__html:`(function(){try{var t=localStorage.getItem('soumatome-theme');var d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(t==='dark'||(!t&&d))document.documentElement.classList.add('dark')}catch(e){}})()`}} />
+        <script dangerouslySetInnerHTML={{__html:`(function(){try{var t=localStorage.getItem('soumatome-theme');var s=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';var c=t==='dark'||t==='light'?t:s;document.documentElement.setAttribute('data-theme',c);if(c==='dark')document.documentElement.classList.add('dark')}catch(e){}})()`}} />
       </head>
       <body className="min-h-screen antialiased">
         {children}

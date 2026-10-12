@@ -12,9 +12,9 @@ export default function SettingsPage(){
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="max-w-[1280px] mx-auto flex">
+      <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
         <Sidebar />
-        <main className="flex-1 px-4 py-6 pb-20 lg:pb-6 max-w-[720px]">
+        <main className="flex-1 px-4 lg:px-6 py-6 pb-24 lg:pb-6 w-full max-w-[760px] mx-auto">
           <h1 className="text-2xl font-bold mb-4">Pengaturan</h1>
 
           <div className="space-y-4">

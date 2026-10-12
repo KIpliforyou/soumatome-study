@@ -12,14 +12,21 @@ const items = [
 ];
 export default function Sidebar(){
   return (
-    <aside className="hidden lg:block w-[240px] shrink-0">
-      <div className="sticky top-[64px] p-3 space-y-1">
+    <aside className="sidebar hidden lg:flex">
+      <div className="brand"><b>総</b> Soumatome <strong>Study</strong></div>
+      <div className="side-label">Menu</div>
+      <nav className="space-y-1">
         {items.map(it=>(
-          <Link key={it.href} href={it.href} className="flex items-center gap-3 px-3 py-2 rounded-xl hover:bg-slate-100 dark:hover:bg-white/10 text-sm font-medium">
-            <span>{it.icon}</span>{it.label}
+          <Link key={it.href} href={it.href} className="nav">
+            <i>{it.icon}</i>{it.label}
           </Link>
         ))}
-        <div className="pt-4 text-xs opacity-60 px-3">© Soumatome Study — konten orisinal</div>
+      </nav>
+      <div className="mt-auto pt-6">
+        <div className="panel" style={{padding:"12px"}}>
+          <div className="text-xs font-black tracking-widest">SOUMATOME</div>
+          <div className="text-xs opacity-60">Konten orisinal · JMdict CC BY-SA</div>
+        </div>
       </div>
     </aside>
   );

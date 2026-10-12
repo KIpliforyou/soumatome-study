@@ -7,9 +7,9 @@ export default function AboutPage(){
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="max-w-[1280px] mx-auto flex">
+      <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
         <Sidebar />
-        <main className="flex-1 px-4 py-6 pb-20 lg:pb-6 max-w-[760px]">
+        <main className="flex-1 px-4 lg:px-6 py-6 pb-24 lg:pb-6 w-full max-w-[760px] mx-auto">
           <h1 className="text-2xl font-bold mb-2">Tentang Soumatome Study</h1>
           <p className="opacity-70 mb-6">Web app belajar bahasa Jepang untuk JLPT N5-N2. Struktur navigasi mengikuti silabus Soumatome (Kanji, Goi, Bunpou, Dokkai, Choukai per minggu), tapi <b>isi konten orisinal</b> — tidak menyalin buku.</p>
 
@@ -27,9 +27,9 @@ export default function AboutPage(){
             <div className="text-sm mt-2 space-y-1">
               <div>N5: 24 kanji · 24 kotoba · 10 bunpou · 3 dokkai · 2 choukai · 8 quiz</div>
               <div>N4: 22 kanji · 18 kotoba · 8 bunpou · 1 dokkai · 1 choukai · 5 quiz</div>
-              <div>N3: 61 kanji · 30 kotoba · 17 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
-              <div>N2: 63 kanji · 28 kotoba · 16 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
-              <div className="opacity-60">Total: 170 kanji · 100 kotoba · 51 bunpou · 10 dokkai · 9 choukai · 39 quiz</div>
+              <div>N3: 77 kanji · 36 kotoba · 19 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
+              <div>N2: 76 kanji · 32 kotoba · 18 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
+              <div className="opacity-60">Total: 199 kanji · 110 kotoba · 55 bunpou · 10 dokkai · 9 choukai · 39 quiz</div>
             </div>
           </div>
 

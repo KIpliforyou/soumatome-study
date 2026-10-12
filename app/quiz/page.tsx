@@ -34,9 +34,9 @@ export default function QuizPage(){
     return (
       <div className="min-h-screen">
         <Header />
-        <div className="max-w-[1280px] mx-auto flex">
+        <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
           <Sidebar />
-          <main className="flex-1 px-4 py-6 pb-20 lg:pb-6">
+          <main className="flex-1 px-4 lg:px-6 py-6 pb-24 lg:pb-6 w-full max-w-[1280px] mx-auto">
             <h1 className="text-2xl font-bold mb-2">Kuis</h1>
             <p className="text-sm opacity-60 mb-4">Pilihan ganda, tebak bacaan/arti. Skor + riwayat tersimpan.</p>
             <div className="flex gap-2 mb-4 flex-wrap">
@@ -61,7 +61,7 @@ export default function QuizPage(){
     return (
       <div className="min-h-screen">
         <Header />
-        <div className="max-w-[1280px] mx-auto flex">
+        <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
           <Sidebar />
           <main className="flex-1 px-4 py-6 pb-20 lg:pb-6 max-w-[720px]">
             <h1 className="text-2xl font-bold">Hasil — {score.c}/{score.total} ({score.pct}%)</h1>
@@ -92,7 +92,7 @@ export default function QuizPage(){
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="max-w-[1280px] mx-auto flex">
+      <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
         <Sidebar />
         <main className="flex-1 px-4 py-6 pb-20 lg:pb-6 max-w-[720px]">
           <div className="flex items-center gap-2 mb-4">

@@ -76,9 +76,9 @@ export default function FlashcardPage(){
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="max-w-[1280px] mx-auto flex">
+      <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
         <Sidebar />
-        <main className="flex-1 px-4 py-6 pb-20 lg:pb-6">
+        <main className="flex-1 px-4 lg:px-6 py-6 pb-24 lg:pb-6 w-full max-w-[1280px] mx-auto">
           <h1 className="text-2xl font-bold mb-1">Flashcard — SRS (SM-2)</h1>
           <p className="text-sm opacity-60 mb-3">Spasi = flip · 1 Lagi · 2 Sulit · 3 Bagus · 4 Mudah · ← → navigasi · 🔊 TTS · Kanji tampil onyomi/kunyomi + contoh di balik kartu</p>
 

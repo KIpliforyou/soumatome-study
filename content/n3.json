@@ -1195,6 +1195,324 @@
       ],
       "level": "n3",
       "unit": "minggu-4"
+    },
+    {
+      "char": "限",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "かぎる"
+      ],
+      "arti_id": "batas",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "期限",
+          "kana": "きげん",
+          "arti": "batas waktu"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "期",
+      "onyomi": [
+        "キ",
+        "ゴ"
+      ],
+      "kunyomi": [],
+      "arti_id": "periode",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "期限",
+          "kana": "きげん",
+          "arti": "batas waktu"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "妻",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "つま"
+      ],
+      "arti_id": "istri",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "妻子",
+          "kana": "さいし",
+          "arti": "istri dan anak"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "夫",
+      "onyomi": [
+        "フ",
+        "フウ"
+      ],
+      "kunyomi": [
+        "おっと"
+      ],
+      "arti_id": "suami",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "夫婦",
+          "kana": "ふうふ",
+          "arti": "suami istri"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "婦",
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [],
+      "arti_id": "wanita",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "主婦",
+          "kana": "しゅふ",
+          "arti": "ibu rumah tangga"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "婚",
+      "onyomi": [
+        "コン"
+      ],
+      "kunyomi": [],
+      "arti_id": "pernikahan",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "結婚",
+          "kana": "けっこん",
+          "arti": "pernikahan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "祭",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "まつり"
+      ],
+      "arti_id": "festival",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "祭り",
+          "kana": "まつり",
+          "arti": "festival"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "祝",
+      "onyomi": [
+        "シュク",
+        "シュウ"
+      ],
+      "kunyomi": [
+        "いわう"
+      ],
+      "arti_id": "merayakan",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "祝日",
+          "kana": "しゅくじつ",
+          "arti": "hari libur nasional"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "恋",
+      "onyomi": [
+        "レン"
+      ],
+      "kunyomi": [
+        "こい"
+      ],
+      "arti_id": "cinta",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "恋人",
+          "kana": "こいびと",
+          "arti": "kekasih"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "愛",
+      "onyomi": [
+        "アイ"
+      ],
+      "kunyomi": [
+        "あい"
+      ],
+      "arti_id": "cinta",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "愛情",
+          "kana": "あいじょう",
+          "arti": "kasih sayang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "感",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [],
+      "arti_id": "perasaan",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "感動",
+          "kana": "かんどう",
+          "arti": "terharu"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "涙",
+      "onyomi": [
+        "ルイ"
+      ],
+      "kunyomi": [
+        "なみだ"
+      ],
+      "arti_id": "air mata",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "涙",
+          "kana": "なみだ",
+          "arti": "air mata"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "笑",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "わらう",
+        "えむ"
+      ],
+      "arti_id": "tertawa",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "笑う",
+          "kana": "わらう",
+          "arti": "tertawa"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "怒",
+      "onyomi": [
+        "ド",
+        "ヌ"
+      ],
+      "kunyomi": [
+        "おこる",
+        "いかる"
+      ],
+      "arti_id": "marah",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "怒る",
+          "kana": "おこる",
+          "arti": "marah"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "泣",
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "なく"
+      ],
+      "arti_id": "menangis",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "泣く",
+          "kana": "なく",
+          "arti": "menangis"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "喜",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "よろこぶ"
+      ],
+      "arti_id": "senang",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "喜ぶ",
+          "kana": "よろこぶ",
+          "arti": "senang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-8"
     }
   ],
   "kotoba": [
@@ -1646,6 +1964,96 @@
       },
       "level": "n3",
       "unit": "minggu-4"
+    },
+    {
+      "id": "n3-kotoba-31",
+      "kanji": "禁止",
+      "kana": "きんし",
+      "romaji": "kinshi",
+      "arti_id": "larangan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "駐車は禁止です。",
+        "kana": "ちゅうしゃは きんしです。",
+        "id": "Parkir dilarang."
+      },
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "id": "n3-kotoba-32",
+      "kanji": "期限",
+      "kana": "きげん",
+      "romaji": "kigen",
+      "arti_id": "batas waktu",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "期限を守ってください。",
+        "kana": "きげんを まもってください。",
+        "id": "Patuhi batas waktu."
+      },
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "id": "n3-kotoba-33",
+      "kanji": "結婚する",
+      "kana": "けっこんする",
+      "romaji": "kekkon suru",
+      "arti_id": "menikah",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "来年結婚します。",
+        "kana": "らいねん けっこんします。",
+        "id": "Tahun depan menikah."
+      },
+      "level": "n3",
+      "unit": "minggu-7"
+    },
+    {
+      "id": "n3-kotoba-34",
+      "kanji": "恋人",
+      "kana": "こいびと",
+      "romaji": "koibito",
+      "arti_id": "kekasih",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "恋人と祭りに行った。",
+        "kana": "こいびとと まつりに いった。",
+        "id": "Pergi ke festival dengan kekasih."
+      },
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "id": "n3-kotoba-35",
+      "kanji": "感情",
+      "kana": "かんじょう",
+      "romaji": "kanjou",
+      "arti_id": "perasaan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "感情を伝える。",
+        "kana": "かんじょうを つたえる。",
+        "id": "Menyampaikan perasaan."
+      },
+      "level": "n3",
+      "unit": "minggu-8"
+    },
+    {
+      "id": "n3-kotoba-36",
+      "kanji": "感動する",
+      "kana": "かんどうする",
+      "romaji": "kandou suru",
+      "arti_id": "terharu",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "映画に感動した。",
+        "kana": "えいがに かんどうした。",
+        "id": "Terharu karena film."
+      },
+      "level": "n3",
+      "unit": "minggu-8"
     }
   ],
   "bunpou": [
@@ -2232,6 +2640,74 @@
       "unit": "minggu-6",
       "tags": [
         "penjelasan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-18",
+      "pola": "～ておく",
+      "arti": "melakukan persiapan / membiarkan",
+      "rumus": "V-て + おく",
+      "inti_singkat": "Mempersiapkan sesuatu untuk nanti, atau membiarkan keadaan.",
+      "penjelasan": "メモしておく = mencatat untuk nanti. 窓を開けておく = membiarkan jendela terbuka.",
+      "perbandingan": "ておく (persiapan) vs ている (sedang/keadaan).",
+      "contoh": [
+        {
+          "jp": "資料をコピーしておく。",
+          "kana": "しりょうを コピーしておく。",
+          "id": "Fotokopi materi untuk persiapan."
+        },
+        {
+          "jp": "ドアを開けておいてください。",
+          "kana": "ドアを あけておいてください。",
+          "id": "Tolong biarkan pintu terbuka."
+        },
+        {
+          "jp": "予約しておいた。",
+          "kana": "よやくしておいた。",
+          "id": "Sudah reservasi (persiapan)."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa おく vs おく (tinggal)"
+      ],
+      "level": "n3",
+      "unit": "minggu-7",
+      "tags": [
+        "persiapan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-19",
+      "pola": "～はずがない",
+      "arti": "pasti tidak ~",
+      "rumus": "Kalimat + はずがない",
+      "inti_singkat": "Tidak mungkin terjadi secara logis.",
+      "penjelasan": "彼が嘘をつくはずがない = tidak mungkin dia berbohong (karena kenal baik).",
+      "perbandingan": "はずだ (pasti) vs はずがない (pasti tidak).",
+      "contoh": [
+        {
+          "jp": "そんなことがあるはずがない。",
+          "kana": "そんなことが あるはずがない。",
+          "id": "Tidak mungkin ada hal seperti itu."
+        },
+        {
+          "jp": "彼が来ないはずがない。",
+          "kana": "かれが こないはずがない。",
+          "id": "Tidak mungkin dia tidak datang."
+        },
+        {
+          "jp": "分かるはずがない。",
+          "kana": "わかるはずがない。",
+          "id": "Tidak mungkin mengerti."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk はずが vs はずは"
+      ],
+      "level": "n3",
+      "unit": "minggu-7",
+      "tags": [
+        "dugaan"
       ]
     }
   ],

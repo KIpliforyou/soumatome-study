@@ -1225,6 +1225,258 @@
       ],
       "level": "n2",
       "unit": "minggu-4"
+    },
+    {
+      "char": "貿",
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "perdagangan",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "貿易",
+          "kana": "ぼうえき",
+          "arti": "perdagangan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "易",
+      "onyomi": [
+        "エキ",
+        "イ"
+      ],
+      "kunyomi": [
+        "やさしい"
+      ],
+      "arti_id": "mudah",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "貿易",
+          "kana": "ぼうえき",
+          "arti": "perdagangan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "輸",
+      "onyomi": [
+        "ユ",
+        "シュ"
+      ],
+      "kunyomi": [],
+      "arti_id": "transport",
+      "strokes": 16,
+      "contoh_kata": [
+        {
+          "kata": "輸出",
+          "kana": "ゆしゅつ",
+          "arti": "ekspor"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "収",
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "おさめる"
+      ],
+      "arti_id": "memperoleh",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "収入",
+          "kana": "しゅうにゅう",
+          "arti": "pendapatan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "入",
+      "onyomi": [
+        "ニュウ"
+      ],
+      "kunyomi": [
+        "はいる"
+      ],
+      "arti_id": "masuk",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "収入",
+          "kana": "しゅうにゅう",
+          "arti": "pendapatan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "益",
+      "onyomi": [
+        "エキ",
+        "ヤク"
+      ],
+      "kunyomi": [],
+      "arti_id": "keuntungan",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "利益",
+          "kana": "りえき",
+          "arti": "keuntungan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "損",
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "そこなう"
+      ],
+      "arti_id": "rugi",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "損害",
+          "kana": "そんがい",
+          "arti": "kerugian"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "害",
+      "onyomi": [
+        "ガイ"
+      ],
+      "kunyomi": [],
+      "arti_id": "kerusakan",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "損害",
+          "kana": "そんがい",
+          "arti": "kerugian"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "char": "競",
+      "onyomi": [
+        "キョウ",
+        "ケイ"
+      ],
+      "kunyomi": [
+        "きそう"
+      ],
+      "arti_id": "bersaing",
+      "strokes": 20,
+      "contoh_kata": [
+        {
+          "kata": "競争",
+          "kana": "きょうそう",
+          "arti": "persaingan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "争",
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "あらそう"
+      ],
+      "arti_id": "bertengkar",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "競争",
+          "kana": "きょうそう",
+          "arti": "persaingan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "績",
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [],
+      "arti_id": "prestasi",
+      "strokes": 17,
+      "contoh_kata": [
+        {
+          "kata": "成績",
+          "kana": "せいせき",
+          "arti": "nilai"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "評",
+      "onyomi": [
+        "ヒョウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "menilai",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "評価",
+          "kana": "ひょうか",
+          "arti": "evaluasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-8"
+    },
+    {
+      "char": "価",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "あたい"
+      ],
+      "arti_id": "nilai",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "評価",
+          "kana": "ひょうか",
+          "arti": "evaluasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-8"
     }
   ],
   "kotoba": [
@@ -1645,6 +1897,66 @@
       },
       "level": "n2",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n2-kotoba-29",
+      "kanji": "貿易",
+      "kana": "ぼうえき",
+      "romaji": "boueki",
+      "arti_id": "perdagangan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "貿易が盛んだ。",
+        "kana": "ぼうえきが さかんだ。",
+        "id": "Perdagangan ramai."
+      },
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "id": "n2-kotoba-30",
+      "kanji": "輸出する",
+      "kana": "ゆしゅつする",
+      "romaji": "yushutsu suru",
+      "arti_id": "mengekspor",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "車を輸出する。",
+        "kana": "くるまを ゆしゅつする。",
+        "id": "Mengekspor mobil."
+      },
+      "level": "n2",
+      "unit": "minggu-7"
+    },
+    {
+      "id": "n2-kotoba-31",
+      "kanji": "競争する",
+      "kana": "きょうそうする",
+      "romaji": "kyousou suru",
+      "arti_id": "bersaing",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "会社が競争している。",
+        "kana": "かいしゃが きょうそうしている。",
+        "id": "Perusahaan bersaing."
+      },
+      "level": "n2",
+      "unit": "minggu-8"
+    },
+    {
+      "id": "n2-kotoba-32",
+      "kanji": "評価する",
+      "kana": "ひょうかする",
+      "romaji": "hyouka suru",
+      "arti_id": "mengevaluasi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "成果を評価する。",
+        "kana": "せいかを ひょうかする。",
+        "id": "Mengevaluasi hasil."
+      },
+      "level": "n2",
+      "unit": "minggu-8"
     }
   ],
   "bunpou": [
@@ -2195,6 +2507,74 @@
       "unit": "minggu-3",
       "tags": [
         "ketergantungan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-17",
+      "pola": "～に伴って / ～とともに",
+      "arti": "bersamaan dengan ~",
+      "rumus": "Noun + に伴って / とともに",
+      "inti_singkat": "Perubahan yang terjadi bersamaan.",
+      "penjelasan": "人口増加に伴って住宅が増えた. 年をとるとともに体力が落ちる.",
+      "perbandingan": "に伴って (iringan alami) vs とともに (bersama).",
+      "contoh": [
+        {
+          "jp": "経済成長に伴い物価が上がった。",
+          "kana": "けいざいせいちょうにともない ぶっかが あがった。",
+          "id": "Seiring pertumbuhan ekonomi, harga naik."
+        },
+        {
+          "jp": "年をとるとともに記憶力が落ちる。",
+          "kana": "としをとるとともに きおくりょくが おちる。",
+          "id": "Seiring bertambah usia, daya ingat menurun."
+        },
+        {
+          "jp": "開発に伴って環境が変わった。",
+          "kana": "かいはつにともなって かんきょうが かわった。",
+          "id": "Seiring pembangunan, lingkungan berubah."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah partikel に伴って"
+      ],
+      "level": "n2",
+      "unit": "minggu-7",
+      "tags": [
+        "iringan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-18",
+      "pola": "～上は / ～以上は",
+      "arti": "selama ~, karena sudah ~",
+      "rumus": "V-た + 上は / 以上は",
+      "inti_singkat": "Karena sudah begitu, harus konsekwen.",
+      "penjelasan": "やると言った以上はやるべきだ.",
+      "perbandingan": "以上は (karena sudah) vs からには (sejak sudah). Mirip.",
+      "contoh": [
+        {
+          "jp": "引き受けた以上は最後までやる。",
+          "kana": "ひきうけた いじょうは さいごまでやる。",
+          "id": "Karena sudah menerima, lakukan sampai akhir."
+        },
+        {
+          "jp": "参加する上は真剣にやる。",
+          "kana": "さんかする うえは しんけんにやる。",
+          "id": "Selama ikut, lakukan serius."
+        },
+        {
+          "jp": "約束した以上は守る。",
+          "kana": "やくそくした いじょうは まもる。",
+          "id": "Karena sudah janji, tepati."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar 以上は dan 上は"
+      ],
+      "level": "n2",
+      "unit": "minggu-8",
+      "tags": [
+        "konsekuensi"
       ]
     }
   ],

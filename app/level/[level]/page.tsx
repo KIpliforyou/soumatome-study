@@ -20,9 +20,9 @@ export default function LevelPage(){
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="max-w-[1280px] mx-auto flex">
+      <div className="app-shell !min-h-0 max-w-[1280px] mx-auto">
         <Sidebar />
-        <main className="flex-1 px-4 py-6 pb-20 lg:pb-6">
+        <main className="flex-1 px-4 lg:px-6 py-6 pb-24 lg:pb-6 w-full max-w-[1280px] mx-auto">
           <div className="flex items-center gap-2 mb-4">
             <Link href="/" className="text-sm opacity-60 hover:opacity-100">← Dashboard</Link>
             <span className="text-sm px-2 py-0.5 rounded-full bg-slate-900 text-white dark:bg-white dark:text-black">{level.toUpperCase()}</span>
