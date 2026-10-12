@@ -27,9 +27,9 @@ export default function AboutPage(){
             <div className="text-sm mt-2 space-y-1">
               <div>N5: 24 kanji · 24 kotoba · 10 bunpou · 3 dokkai · 2 choukai · 8 quiz</div>
               <div>N4: 22 kanji · 18 kotoba · 8 bunpou · 1 dokkai · 1 choukai · 5 quiz</div>
-              <div>N3: 35 kanji · 20 kotoba · 9 bunpou · 3 dokkai · 3 choukai · 10 quiz</div>
-              <div>N2: 35 kanji · 20 kotoba · 10 bunpou · 3 dokkai · 3 choukai · 10 quiz</div>
-              <div className="opacity-60">Total: 116 kanji · 82 kotoba · 37 bunpou · 10 dokkai · 9 choukai · 33 quiz</div>
+              <div>N3: 61 kanji · 30 kotoba · 17 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
+              <div>N2: 63 kanji · 28 kotoba · 16 bunpou · 3 dokkai · 3 choukai · 13 quiz</div>
+              <div className="opacity-60">Total: 170 kanji · 100 kotoba · 51 bunpou · 10 dokkai · 9 choukai · 39 quiz</div>
             </div>
           </div>
 

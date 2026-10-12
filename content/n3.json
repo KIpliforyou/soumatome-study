@@ -693,6 +693,508 @@
       ],
       "level": "n3",
       "unit": "minggu-6"
+    },
+    {
+      "char": "駐",
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "parkir, berhenti",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "駐車",
+          "kana": "ちゅうしゃ",
+          "arti": "parkir"
+        },
+        {
+          "kata": "駐車場",
+          "kana": "ちゅうしゃじょう",
+          "arti": "tempat parkir"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "禁",
+      "onyomi": [
+        "キン"
+      ],
+      "kunyomi": [],
+      "arti_id": "larangan",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "禁止",
+          "kana": "きんし",
+          "arti": "larangan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "横",
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "よこ"
+      ],
+      "arti_id": "samping, horizontal",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "横断",
+          "kana": "おうだん",
+          "arti": "menyeberang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "押",
+      "onyomi": [],
+      "kunyomi": [
+        "おす"
+      ],
+      "arti_id": "mendorong, menekan",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "押す",
+          "kana": "おす",
+          "arti": "mendorong"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "式",
+      "onyomi": [
+        "シキ"
+      ],
+      "kunyomi": [],
+      "arti_id": "upacara, rumus",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "入学式",
+          "kana": "にゅうがくしき",
+          "arti": "upacara masuk sekolah"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "飛",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "とぶ"
+      ],
+      "arti_id": "terbang",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "飛行場",
+          "kana": "ひこうじょう",
+          "arti": "bandara"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "信",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [],
+      "arti_id": "percaya",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "信号",
+          "kana": "しんごう",
+          "arti": "lampu lalu lintas"
+        },
+        {
+          "kata": "自信",
+          "kana": "じしん",
+          "arti": "percaya diri"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "号",
+      "onyomi": [
+        "ゴウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "nomor",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "信号",
+          "kana": "しんごう",
+          "arti": "sinyal"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "非",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [],
+      "arti_id": "bukan, non-",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "非常",
+          "kana": "ひじょう",
+          "arti": "darurat"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "常",
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "つね"
+      ],
+      "arti_id": "biasa, selalu",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "非常口",
+          "kana": "ひじょうぐち",
+          "arti": "pintu darurat"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "階",
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [],
+      "arti_id": "lantai, tangga",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "階段",
+          "kana": "かいだん",
+          "arti": "tangga"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "段",
+      "onyomi": [
+        "ダン"
+      ],
+      "kunyomi": [],
+      "arti_id": "tahap",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "階段",
+          "kana": "かいだん",
+          "arti": "tangga"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "危",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "あぶない"
+      ],
+      "arti_id": "bahaya",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "危険",
+          "kana": "きけん",
+          "arti": "bahaya"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "険",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "けわしい"
+      ],
+      "arti_id": "curam, bahaya",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "危険",
+          "kana": "きけん",
+          "arti": "bahaya"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "捨",
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "すてる"
+      ],
+      "arti_id": "membuang",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "捨てる",
+          "kana": "すてる",
+          "arti": "membuang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "線",
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "arti_id": "garis, jalur",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "新幹線",
+          "kana": "しんかんせん",
+          "arti": "shinkansen"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "面",
+      "onyomi": [
+        "メン"
+      ],
+      "kunyomi": [
+        "おも"
+      ],
+      "arti_id": "permukaan, wajah",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "画面",
+          "kana": "がめん",
+          "arti": "layar"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "普",
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [],
+      "arti_id": "umum",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "普通",
+          "kana": "ふつう",
+          "arti": "biasa"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "指",
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "さす",
+        "ゆび"
+      ],
+      "arti_id": "menunjuk, jari",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "指定席",
+          "kana": "していせき",
+          "arti": "kursi reservasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "停",
+      "onyomi": [
+        "テイ"
+      ],
+      "kunyomi": [],
+      "arti_id": "berhenti",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "停車",
+          "kana": "ていしゃ",
+          "arti": "berhenti (kereta)"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "券",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [],
+      "arti_id": "tiket",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "切符",
+          "kana": "きっぷ",
+          "arti": "tiket"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "両",
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "keduanya",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "両替",
+          "kana": "りょうがえ",
+          "arti": "penukaran uang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "替",
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "かえる"
+      ],
+      "arti_id": "mengganti",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "両替",
+          "kana": "りょうがえ",
+          "arti": "penukaran uang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "優",
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "やさしい"
+      ],
+      "arti_id": "lembut, unggul",
+      "strokes": 17,
+      "contoh_kata": [
+        {
+          "kata": "優先席",
+          "kana": "ゆうせんせき",
+          "arti": "kursi prioritas"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "席",
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [],
+      "arti_id": "kursi, tempat",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "指定席",
+          "kana": "していせき",
+          "arti": "kursi reservasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "降",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "おりる",
+        "ふる"
+      ],
+      "arti_id": "turun",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "降りる",
+          "kana": "おりる",
+          "arti": "turun"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
     }
   ],
   "kotoba": [
@@ -994,6 +1496,156 @@
       },
       "level": "n3",
       "unit": "minggu-6"
+    },
+    {
+      "id": "n3-kotoba-21",
+      "kanji": "駐車する",
+      "kana": "ちゅうしゃする",
+      "romaji": "chuusha suru",
+      "arti_id": "parkir",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "ここに駐車しないでください。",
+        "kana": "ここに ちゅうしゃしないでください。",
+        "id": "Jangan parkir di sini."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-22",
+      "kanji": "禁止する",
+      "kana": "きんしする",
+      "romaji": "kinshi suru",
+      "arti_id": "melarang",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "ここでは喫煙が禁止されています。",
+        "kana": "ここでは きつえんが きんしされています。",
+        "id": "Merokok dilarang di sini."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-23",
+      "kanji": "横断する",
+      "kana": "おうだんする",
+      "romaji": "oudan suru",
+      "arti_id": "menyeberang",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "横断歩道を渡る。",
+        "kana": "おうだんほどうを わたる。",
+        "id": "Menyeberang di zebra cross."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-24",
+      "kanji": "押す",
+      "kana": "おす",
+      "romaji": "osu",
+      "arti_id": "menekan, mendorong",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "ボタンを押してください。",
+        "kana": "ボタンを おしてください。",
+        "id": "Tekan tombol."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-25",
+      "kanji": "非常口",
+      "kana": "ひじょうぐち",
+      "romaji": "hijouguchi",
+      "arti_id": "pintu darurat",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "非常口はあちらです。",
+        "kana": "ひじょうぐちは あちらです。",
+        "id": "Pintu darurat di sebelah sana."
+      },
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n3-kotoba-26",
+      "kanji": "危険な",
+      "kana": "きけんな",
+      "romaji": "kiken na",
+      "arti_id": "berbahaya",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "そこは危険です。",
+        "kana": "そこは きけんです。",
+        "id": "Tempat itu berbahaya."
+      },
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n3-kotoba-27",
+      "kanji": "捨てる",
+      "kana": "すてる",
+      "romaji": "suteru",
+      "arti_id": "membuang",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "ゴミを捨てる。",
+        "kana": "ゴミを すてる。",
+        "id": "Membuang sampah."
+      },
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n3-kotoba-28",
+      "kanji": "普通の",
+      "kana": "ふつうの",
+      "romaji": "futsuu no",
+      "arti_id": "biasa",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "普通の生活に戻った。",
+        "kana": "ふつうの せいかつに もどった。",
+        "id": "Kembali ke kehidupan biasa."
+      },
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n3-kotoba-29",
+      "kanji": "優先する",
+      "kana": "ゆうせんする",
+      "romaji": "yuusen suru",
+      "arti_id": "memprioritaskan",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "安全を優先する。",
+        "kana": "あんぜんを ゆうせんする。",
+        "id": "Memprioritaskan keselamatan."
+      },
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n3-kotoba-30",
+      "kanji": "降りる",
+      "kana": "おりる",
+      "romaji": "oriru",
+      "arti_id": "turun",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "次の駅で降ります。",
+        "kana": "つぎのえきで おります。",
+        "id": "Turun di stasiun berikutnya."
+      },
+      "level": "n3",
+      "unit": "minggu-4"
     }
   ],
   "bunpou": [
@@ -1305,6 +1957,281 @@
       "unit": "minggu-6",
       "tags": [
         "cara"
+      ]
+    },
+    {
+      "id": "n3-bunpou-10",
+      "pola": "～(ら)れる — pasif",
+      "arti": "di- (pasif)",
+      "rumus": "V-ない + れる/られる",
+      "inti_singkat": "Pasif: aksi dilakukan oleh orang lain, subjek jadi korban/penerima.",
+      "penjelasan": "財布を盗まれた = dompet dicuri (orang lain). Bentuk pasif untuk kejadian tak diinginkan sering pakai られる. Contoh: 雨に降られた = kehujanan (harfiah: dihujani).",
+      "perbandingan": "Pasif vs kausatif させる: Pasif = di-, Kausatif = menyuruh.",
+      "contoh": [
+        {
+          "jp": "弟にケーキを食べられた。",
+          "kana": "おとうとに ケーキを たべられた。",
+          "id": "Kueku dimakan adik (kesal)."
+        },
+        {
+          "jp": "この本は多くの人に読まれている。",
+          "kana": "このほんは おおくのひとに よまれている。",
+          "id": "Buku ini banyak dibaca orang."
+        },
+        {
+          "jp": "会議は明日行われます。",
+          "kana": "かいぎは あした おこなわれます。",
+          "id": "Rapat akan diadakan besok."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah konjugasi られる untuk godan/ichidan",
+        "Lupa に untuk pelaku"
+      ],
+      "level": "n3",
+      "unit": "minggu-1",
+      "tags": [
+        "pasif"
+      ]
+    },
+    {
+      "id": "n3-bunpou-11",
+      "pola": "～みたい / ～らしい / ～っぽい",
+      "arti": "seperti, kelihatannya",
+      "rumus": "Noun/Adj + みたい / らしい / っぽい",
+      "inti_singkat": "みたい = mirip penampilan, らしい = khas/sesuai ciri, っぽい = agak ~.",
+      "penjelasan": "子供っぽい = kekanak-kanakan. 男らしい = jantan/khas pria. みたい lebih subjektif 'kayak'.",
+      "perbandingan": "みたい (subjektif mirip) vs らしい (objektif, ada bukti) vs っぽい (casual, agak).",
+      "contoh": [
+        {
+          "jp": "彼は疲れているみたいだ。",
+          "kana": "かれは つかれているみたいだ。",
+          "id": "Dia kelihatannya lelah."
+        },
+        {
+          "jp": "春らしい天気だ。",
+          "kana": "はるらしい てんきだ。",
+          "id": "Cuaca yang khas musim semi."
+        },
+        {
+          "jp": "子供っぽい服だ。",
+          "kana": "こどもっぽい ふくだ。",
+          "id": "Baju yang kekanak-kanakan."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar らしい dan みたい",
+        "Pakai っぽい untuk hal formal (tidak sopan)"
+      ],
+      "level": "n3",
+      "unit": "minggu-2",
+      "tags": [
+        "dugaan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-12",
+      "pola": "～ように言う / ～と言われる",
+      "arti": "disuruh agar ~ / dikatakan bahwa ~",
+      "rumus": "V-る/ない + ように言う / と言われる",
+      "inti_singkat": "Kutipan perintah tidak langsung dan rumor.",
+      "penjelasan": "医者に酒を飲まないように言われた = disuruh dokter jangan minum. この店はおいしいと言われている = katanya toko ini enak.",
+      "perbandingan": "ように言う (perintah tidak langsung) vs と言う (kutipan langsung).",
+      "contoh": [
+        {
+          "jp": "先生に宿題をするように言われた。",
+          "kana": "せんせいに しゅくだいをするように いわれた。",
+          "id": "Disuruh guru mengerjakan PR."
+        },
+        {
+          "jp": "この辺は静かだと言われている。",
+          "kana": "このへんは しずかだと いわれている。",
+          "id": "Katanya sekitar sini tenang."
+        },
+        {
+          "jp": "早く寝るように言われた。",
+          "kana": "はやく ねるように いわれた。",
+          "id": "Disuruh tidur cepat."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa ように untuk perintah tidak langsung"
+      ],
+      "level": "n3",
+      "unit": "minggu-3",
+      "tags": [
+        "kutipan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-13",
+      "pola": "～ても / ～ずに",
+      "arti": "walaupun ~ / tanpa ~",
+      "rumus": "V-ても / V-ずに (V-ない tanpa ない + ずに)",
+      "inti_singkat": "ても = walaupun, ずに = tanpa melakukan.",
+      "penjelasan": "雨でも行く = walaupun hujan tetap pergi. 連絡せずに行った = pergi tanpa menghubungi.",
+      "perbandingan": "ても (kondisi berlawanan) vs ずに (tanpa).",
+      "contoh": [
+        {
+          "jp": "高くても買う。",
+          "kana": "たかくても かう。",
+          "id": "Walaupun mahal tetap beli."
+        },
+        {
+          "jp": "何も言わずに出かけた。",
+          "kana": "なにも いわずに でかけた。",
+          "id": "Pergi tanpa bilang apa-apa."
+        },
+        {
+          "jp": "遅れても連絡しなかった。",
+          "kana": "おくれても れんらくしなかった。",
+          "id": "Walaupun terlambat tidak menghubungi."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk ずに (pakai ない→ず)"
+      ],
+      "level": "n3",
+      "unit": "minggu-3",
+      "tags": [
+        "kondisi"
+      ]
+    },
+    {
+      "id": "n3-bunpou-14",
+      "pola": "～おかげで / ～せいで",
+      "arti": "berkat ~ / gara-gara ~",
+      "rumus": "Noun の / V-た + おかげで / せいで",
+      "inti_singkat": "おかげ = hasil positif, せい = hasil negatif (menyalahkan).",
+      "penjelasan": "みんなのおかげで成功した (positif). 雨のせいで遅れた (negatif). せい jangan dipakai untuk hal baik.",
+      "perbandingan": "おかげで (positif) vs せいで (negatif) — jangan tertukar.",
+      "contoh": [
+        {
+          "jp": "先生のおかげで合格した。",
+          "kana": "せんせいの おかげで ごうかくした。",
+          "id": "Berkat guru jadi lulus."
+        },
+        {
+          "jp": "寝坊のせいで遅刻した。",
+          "kana": "ねぼうのせいで ちこくした。",
+          "id": "Gara-gara bangun kesiangan jadi terlambat."
+        },
+        {
+          "jp": "薬のおかげで熱が下がった。",
+          "kana": "くすりの おかげで ねつが さがった。",
+          "id": "Berkat obat demam turun."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai せい untuk hal baik (tidak natural)"
+      ],
+      "level": "n3",
+      "unit": "minggu-4",
+      "tags": [
+        "sebab"
+      ]
+    },
+    {
+      "id": "n3-bunpou-15",
+      "pola": "～くらい / ～ほど",
+      "arti": "kira-kira ~ / sampai ~",
+      "rumus": "Noun + くらい/ほど (+ V)",
+      "inti_singkat": "くらい lebih casual, ほど lebih formal/tertulis. Keduanya: sekitar/sebanyak.",
+      "penjelasan": "3時間くらい待った = menunggu sekitar 3 jam. 泣くほど笑った = tertawa sampai menangis.",
+      "perbandingan": "くらい (casual) vs ほど (formal) — arti sama, register beda.",
+      "contoh": [
+        {
+          "jp": "一時間くらい待ってください。",
+          "kana": "いちじかんくらい まってください。",
+          "id": "Tunggu sekitar satu jam."
+        },
+        {
+          "jp": "死ぬほど疲れた。",
+          "kana": "しぬほど つかれた。",
+          "id": "Lelah sampai rasanya mau mati."
+        },
+        {
+          "jp": "このくらい大きく切って。",
+          "kana": "このくらい おおきく きって。",
+          "id": "Potong sebesar ini."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai ほど di percakapan super casual (kaku)"
+      ],
+      "level": "n3",
+      "unit": "minggu-5",
+      "tags": [
+        "perkiraan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-16",
+      "pola": "～ことにする / ～ことになる",
+      "arti": "memutuskan / diputuskan",
+      "rumus": "V-る + ことにする / ことになる",
+      "inti_singkat": "ことにする = sendiri memutuskan, ことになる = hasil keputusan eksternal.",
+      "penjelasan": "禁煙することにした (saya putuskan berhenti merokok). 来月転勤することになった (diputuskan pindah).",
+      "perbandingan": "ことにする (aktif) vs ことになる (pasif/hasil).",
+      "contoh": [
+        {
+          "jp": "明日から早起きすることにした。",
+          "kana": "あしたから はやおきすることにした。",
+          "id": "Memutuskan bangun pagi mulai besok."
+        },
+        {
+          "jp": "来週会議をすることになった。",
+          "kana": "らいしゅう かいぎをすることになった。",
+          "id": "Diputuskan rapat minggu depan."
+        },
+        {
+          "jp": "毎日運動することにしている。",
+          "kana": "まいにち うんどうすることにしている。",
+          "id": "Membiasakan olahraga tiap hari (keputusan yang berkelanjutan)."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar にする dan になる"
+      ],
+      "level": "n3",
+      "unit": "minggu-6",
+      "tags": [
+        "keputusan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-17",
+      "pola": "～わけだ / ～わけではない",
+      "arti": "pantas saja / bukan berarti",
+      "rumus": "Kalimat + わけだ / わけではない",
+      "inti_singkat": "わけだ = penjelasan masuk akal, わけではない = meluruskan salah paham.",
+      "penjelasan": "道理で安いわけだ、訳あり商品だ (pantas murah). 嫌いなわけではない (bukan berarti benci).",
+      "perbandingan": "わけだ (penjelasan) vs はずだ (kesimpulan logis).",
+      "contoh": [
+        {
+          "jp": "彼が選ばれたわけだ、実績がある。",
+          "kana": "かれが えらばれたわけだ、じっせきがある。",
+          "id": "Pantas dia terpilih, ada prestasi."
+        },
+        {
+          "jp": "できないわけではないが時間がかかる。",
+          "kana": "できないわけではないが じかんがかかる。",
+          "id": "Bukan tidak bisa, tapi butuh waktu."
+        },
+        {
+          "jp": "行きたくないわけではない。",
+          "kana": "いきたくないわけではない。",
+          "id": "Bukan berarti tidak mau pergi."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa わけ",
+        "Salah level sopan わけです vs わけだ"
+      ],
+      "level": "n3",
+      "unit": "minggu-6",
+      "tags": [
+        "penjelasan"
       ]
     }
   ],
@@ -1620,6 +2547,54 @@
       "tag": "kotoba",
       "level": "n3",
       "kategori": "kotoba"
+    },
+    {
+      "id": "n3-quiz-11",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "財布を盗まれた artinya?",
+      "opsi": [
+        "Mencuri dompet",
+        "Dompet dicuri (oleh orang lain)",
+        "Mau mencuri",
+        "Sengaja dicuri"
+      ],
+      "jawaban": "Dompet dicuri (oleh orang lain)",
+      "penjelasan": "Pasif: 財布を盗まれた.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-12",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "おかげで vs せいで?",
+      "opsi": [
+        "Sama saja",
+        "おかげで=positif, せいで=negatif",
+        "Kebalikannya",
+        "Keduanya negatif"
+      ],
+      "jawaban": "おかげで=positif, せいで=negatif",
+      "penjelasan": "おかげ berkat, せい gara-gara.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-13",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "ことにする vs ことになる?",
+      "opsi": [
+        "Sama",
+        "にする=sendiri putuskan, になる=diputuskan eksternal",
+        "Kebalikannya",
+        "Keduanya pasif"
+      ],
+      "jawaban": "にする=sendiri putuskan, になる=diputuskan eksternal",
+      "penjelasan": "Bedakan kehendak.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
     }
   ]
 }

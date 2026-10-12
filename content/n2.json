@@ -675,6 +675,556 @@
       ],
       "level": "n2",
       "unit": "minggu-6"
+    },
+    {
+      "char": "静",
+      "onyomi": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "しずか"
+      ],
+      "arti_id": "tenang",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "静か",
+          "kana": "しずか",
+          "arti": "tenang"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "危",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "あぶない"
+      ],
+      "arti_id": "bahaya",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "危険",
+          "kana": "きけん",
+          "arti": "bahaya"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "険",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "けわしい"
+      ],
+      "arti_id": "curam",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "危険",
+          "kana": "きけん",
+          "arti": "bahaya"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "落",
+      "onyomi": [
+        "ラク"
+      ],
+      "kunyomi": [
+        "おちる"
+      ],
+      "arti_id": "jatuh",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "落とす",
+          "kana": "おとす",
+          "arti": "menjatuhkan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "捨",
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "すてる"
+      ],
+      "arti_id": "membuang",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "捨てる",
+          "kana": "すてる",
+          "arti": "membuang"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "御",
+      "onyomi": [
+        "ゴ",
+        "ギョ"
+      ],
+      "kunyomi": [
+        "おん"
+      ],
+      "arti_id": "hormat",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "御中",
+          "kana": "おんちゅう",
+          "arti": "kepada (surat)"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "清",
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "きよい"
+      ],
+      "arti_id": "bersih",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "清掃",
+          "kana": "せいそう",
+          "arti": "pembersihan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "掃",
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "はく"
+      ],
+      "arti_id": "menyapu",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "清掃",
+          "kana": "せいそう",
+          "arti": "pembersihan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "閉",
+      "onyomi": [
+        "ヘイ"
+      ],
+      "kunyomi": [
+        "しめる",
+        "とじる"
+      ],
+      "arti_id": "menutup",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "閉める",
+          "kana": "しめる",
+          "arti": "menutup"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "検",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [],
+      "arti_id": "memeriksa",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "点検",
+          "kana": "てんけん",
+          "arti": "inspeksi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "賃",
+      "onyomi": [
+        "チン"
+      ],
+      "kunyomi": [],
+      "arti_id": "upah, sewa",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "家賃",
+          "kana": "やちん",
+          "arti": "uang sewa"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "割",
+      "onyomi": [
+        "カツ"
+      ],
+      "kunyomi": [
+        "わる"
+      ],
+      "arti_id": "membagi",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "割引",
+          "kana": "わりびき",
+          "arti": "diskon"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "増",
+      "onyomi": [
+        "ゾウ"
+      ],
+      "kunyomi": [
+        "ふえる",
+        "ます"
+      ],
+      "arti_id": "bertambah",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "増える",
+          "kana": "ふえる",
+          "arti": "bertambah"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "優",
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "やさしい"
+      ],
+      "arti_id": "unggul, lembut",
+      "strokes": 17,
+      "contoh_kata": [
+        {
+          "kata": "優先",
+          "kana": "ゆうせん",
+          "arti": "prioritas"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "寄",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "よる"
+      ],
+      "arti_id": "mendekat,寄",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "寄る",
+          "kana": "よる",
+          "arti": "mampir"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "貯",
+      "onyomi": [
+        "チョ"
+      ],
+      "kunyomi": [
+        "ためる"
+      ],
+      "arti_id": "menabung",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "貯金",
+          "kana": "ちょきん",
+          "arti": "tabungan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "包",
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "つつむ"
+      ],
+      "arti_id": "membungkus",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "小包",
+          "kana": "こづつみ",
+          "arti": "paket kecil"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "療",
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "pengobatan",
+      "strokes": 17,
+      "contoh_kata": [
+        {
+          "kata": "治療",
+          "kana": "ちりょう",
+          "arti": "pengobatan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "皮",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "arti_id": "kulit",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "皮膚",
+          "kana": "ひふ",
+          "arti": "kulit"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "膚",
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [],
+      "arti_id": "kulit",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "皮膚",
+          "kana": "ひふ",
+          "arti": "kulit"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "看",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [],
+      "arti_id": "menjaga",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "看板",
+          "kana": "かんばん",
+          "arti": "papan nama"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "板",
+      "onyomi": [
+        "ハン",
+        "バン"
+      ],
+      "kunyomi": [
+        "いた"
+      ],
+      "arti_id": "papan",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "看板",
+          "kana": "かんばん",
+          "arti": "papan nama"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "普",
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [],
+      "arti_id": "umum",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "普通",
+          "kana": "ふつう",
+          "arti": "biasa"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "復",
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [],
+      "arti_id": "kembali",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "復習",
+          "kana": "ふくしゅう",
+          "arti": "mengulang"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "硬",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "かたい"
+      ],
+      "arti_id": "keras",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "硬貨",
+          "kana": "こうか",
+          "arti": "koin"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "貨",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "arti_id": "uang, barang",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "硬貨",
+          "kana": "こうか",
+          "arti": "koin"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "確",
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "たしか"
+      ],
+      "arti_id": "pasti",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "確認",
+          "kana": "かくにん",
+          "arti": "konfirmasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "違",
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "ちがう"
+      ],
+      "arti_id": "berbeda, salah",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "間違い",
+          "kana": "まちがい",
+          "arti": "kesalahan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
     }
   ],
   "kotoba": [
@@ -975,6 +1525,126 @@
       },
       "level": "n2",
       "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-21",
+      "kanji": "静か",
+      "kana": "しずか",
+      "romaji": "shizuka",
+      "arti_id": "tenang",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "夜は静かだ。",
+        "kana": "よるは しずかだ。",
+        "id": "Malam tenang."
+      },
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n2-kotoba-22",
+      "kanji": "危険",
+      "kana": "きけん",
+      "romaji": "kiken",
+      "arti_id": "bahaya",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "そこは危険です。",
+        "kana": "そこは きけんです。",
+        "id": "Tempat itu berbahaya."
+      },
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n2-kotoba-23",
+      "kanji": "落とす",
+      "kana": "おとす",
+      "romaji": "otosu",
+      "arti_id": "menjatuhkan",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "財布を落とした。",
+        "kana": "さいふを おとした。",
+        "id": "Menjatuhkan dompet."
+      },
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n2-kotoba-24",
+      "kanji": "清掃する",
+      "kana": "せいそうする",
+      "romaji": "seisou suru",
+      "arti_id": "membersihkan",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "部屋を清掃する。",
+        "kana": "へやを せいそうする。",
+        "id": "Membersihkan kamar."
+      },
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n2-kotoba-25",
+      "kanji": "点検する",
+      "kana": "てんけんする",
+      "romaji": "tenken suru",
+      "arti_id": "memeriksa",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "機械を点検する。",
+        "kana": "きかいを てんけんする。",
+        "id": "Memeriksa mesin."
+      },
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n2-kotoba-26",
+      "kanji": "家賃",
+      "kana": "やちん",
+      "romaji": "yachin",
+      "arti_id": "uang sewa",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "家賃が高い。",
+        "kana": "やちんが たかい。",
+        "id": "Uang sewa mahal."
+      },
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n2-kotoba-27",
+      "kanji": "貯金する",
+      "kana": "ちょきんする",
+      "romaji": "chokin suru",
+      "arti_id": "menabung",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "毎月貯金する。",
+        "kana": "まいつき ちょきんする。",
+        "id": "Menabung tiap bulan."
+      },
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n2-kotoba-28",
+      "kanji": "治療する",
+      "kana": "ちりょうする",
+      "romaji": "chiryou suru",
+      "arti_id": "mengobati",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "病気を治療する。",
+        "kana": "びょうきを ちりょうする。",
+        "id": "Mengobati penyakit."
+      },
+      "level": "n2",
+      "unit": "minggu-3"
     }
   ],
   "bunpou": [
@@ -1322,6 +1992,210 @@
       "tags": [
         "penekanan"
       ]
+    },
+    {
+      "id": "n2-bunpou-11",
+      "pola": "～っぽい / ～がち / ～ぎみ",
+      "arti": "kecenderungan ~",
+      "rumus": "Noun/Adj + っぽい/がち/ぎみ",
+      "inti_singkat": "っぽい= agak, がち= cenderung, ぎみ= agak (lebih halus dari がち).",
+      "penjelasan": "忘れっぽい = pelupa (sifat). 病気がち = sering sakit. 疲れぎみ = agak lelah.",
+      "perbandingan": "っぽい (sifat) vs がち (kebiasaan buruk) vs ぎみ (keadaan sementara).",
+      "contoh": [
+        {
+          "jp": "彼は怒りっぽい。",
+          "kana": "かれは おこりっぽい。",
+          "id": "Dia pemarah."
+        },
+        {
+          "jp": "最近雨がちだ。",
+          "kana": "さいきん あめがちだ。",
+          "id": "Akhir-akhir ini sering hujan."
+        },
+        {
+          "jp": "風邪ぎみだ。",
+          "kana": "かぜぎみだ。",
+          "id": "Agak pilek."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar がち dan ぎみ"
+      ],
+      "level": "n2",
+      "unit": "minggu-1",
+      "tags": [
+        "kecenderungan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-12",
+      "pola": "～てたまらない / ～て仕方がない",
+      "arti": "sangat ~ (tak tertahankan)",
+      "rumus": "Adj/ V-て + たまらない/仕方がない",
+      "inti_singkat": "Perasaan sangat kuat sampai tak tertahankan.",
+      "penjelasan": "暑くてたまらない = panas sekali tak tertahan. 会いたくて仕方がない = sangat ingin bertemu.",
+      "perbandingan": "たまらない / 仕方がない / ならない — sama, たまらない paling emosional.",
+      "contoh": [
+        {
+          "jp": "暑くてたまらない。",
+          "kana": "あつくてたまらない。",
+          "id": "Panas sekali tak tertahankan."
+        },
+        {
+          "jp": "寂しくて仕方がない。",
+          "kana": "さびしくて しかたがない。",
+          "id": "Sangat kesepian."
+        },
+        {
+          "jp": "眠くてたまらない。",
+          "kana": "ねむくてたまらない。",
+          "id": "Sangat mengantuk."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai untuk hal positif saja (umumnya negatif/perasaan)"
+      ],
+      "level": "n2",
+      "unit": "minggu-1",
+      "tags": [
+        "perasaan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-13",
+      "pola": "～かけ / ～切る",
+      "arti": "mulai ~ / ~ sampai selesai",
+      "rumus": "V-ます stem + かけ / 切る",
+      "inti_singkat": "かけ= belum selesai (tergantung), 切る= tuntas.",
+      "penjelasan": "作りかけの料理 = masakan yang belum selesai. 使い切る = memakai sampai habis.",
+      "perbandingan": "かけ (belum selesai) vs 切る (selesai tuntas) — kebalikan.",
+      "contoh": [
+        {
+          "jp": "読みかけの本がある。",
+          "kana": "よみかけの ほんがある。",
+          "id": "Ada buku yang belum selesai dibaca."
+        },
+        {
+          "jp": "食べきれなかった。",
+          "kana": "たべきれなかった。",
+          "id": "Tidak habis dimakan."
+        },
+        {
+          "jp": "やりかけで放置した。",
+          "kana": "やりかけで ほうちした。",
+          "id": "Dibiarkan dalam keadaan belum selesai."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar かけ dan きる"
+      ],
+      "level": "n2",
+      "unit": "minggu-2",
+      "tags": [
+        "aspek"
+      ]
+    },
+    {
+      "id": "n2-bunpou-14",
+      "pola": "～どころではない / ～どころか",
+      "arti": "bukannya ~ / malah",
+      "rumus": "Kalimat + どころではない / どころか",
+      "inti_singkat": "どころではない = bukannya (jauh dari), どころか = malah sebaliknya.",
+      "penjelasan": "休むどころではない、忙しい (bukannya istirahat, sibuk). 褒めるどころか怒られた (bukannya dipuji, malah dimarahi).",
+      "perbandingan": "どころではない (menyangkal) vs どころか (kontras balik).",
+      "contoh": [
+        {
+          "jp": "旅行どころではない、お金がない。",
+          "kana": "りょこうどころではない、おかねがない。",
+          "id": "Bukannya jalan-jalan, uang saja tidak ada."
+        },
+        {
+          "jp": "彼は優しいどころか冷たい。",
+          "kana": "かれは やさしいどころか つめたい。",
+          "id": "Dia bukannya baik, malah dingin."
+        },
+        {
+          "jp": "寝るどころか起きている。",
+          "kana": "ねるどころか おきている。",
+          "id": "Bukannya tidur, malah terjaga."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa か di どころか"
+      ],
+      "level": "n2",
+      "unit": "minggu-2",
+      "tags": [
+        "kontras"
+      ]
+    },
+    {
+      "id": "n2-bunpou-15",
+      "pola": "～に反して / ～反面",
+      "arti": "berlawanan dengan ~",
+      "rumus": "Noun + に反して / 文 + 反面",
+      "inti_singkat": "Kontras: harapan vs kenyataan.",
+      "penjelasan": "予想に反して成功した (berlawanan dengan prediksi, berhasil). 便利な反面危険だ (di balik kemudahan, ada bahaya).",
+      "perbandingan": "に反して (melawan) vs 反面 (sisi lain).",
+      "contoh": [
+        {
+          "jp": "予想に反して売れた。",
+          "kana": "よそうに はんして うれた。",
+          "id": "Berlawanan dengan prediksi, laku."
+        },
+        {
+          "jp": "安い反面壊れやすい。",
+          "kana": "やすい はんめん こわれやすい。",
+          "id": "Murah tapi mudah rusak."
+        },
+        {
+          "jp": "期待に反して失敗した。",
+          "kana": "きたいに はんして しっぱいした。",
+          "id": "Berlawanan dengan harapan, gagal."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar 反面 dan 一方"
+      ],
+      "level": "n2",
+      "unit": "minggu-3",
+      "tags": [
+        "kontras"
+      ]
+    },
+    {
+      "id": "n2-bunpou-16",
+      "pola": "～次第で / ～次第",
+      "arti": "tergantung ~ / segera setelah ~",
+      "rumus": "Noun + 次第で / V-ます stem + 次第",
+      "inti_singkat": "次第で= tergantung, 次第= segera setelah.",
+      "penjelasan": "結果は努力次第だ (tergantung usaha). 着き次第連絡します (begitu sampai langsung hubungi).",
+      "perbandingan": "次第で (tergantung) vs 次第 (begitu ~ langsung).",
+      "contoh": [
+        {
+          "jp": "天候次第で中止する。",
+          "kana": "てんこうしだいで ちゅうしする。",
+          "id": "Tergantung cuaca, batal."
+        },
+        {
+          "jp": "分かり次第教えます。",
+          "kana": "わかりしだい おしえます。",
+          "id": "Begitu tahu langsung beri tahu."
+        },
+        {
+          "jp": "出来次第送ります。",
+          "kana": "できしだい おくります。",
+          "id": "Begitu jadi langsung kirim."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar 次第で dan 次第"
+      ],
+      "level": "n2",
+      "unit": "minggu-3",
+      "tags": [
+        "ketergantungan"
+      ]
     }
   ],
   "dokkai": [
@@ -1633,6 +2507,54 @@
       ],
       "jawaban": "keunggulan di bidang itu",
       "penjelasan": "料理にかけては誰にも負けない.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-11",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "忘れっぽい artinya?",
+      "opsi": [
+        "Mudah lupa",
+        "Suka melupakan (sifat)",
+        "Lupa sementara",
+        "Tidak pernah lupa"
+      ],
+      "jawaban": "Suka melupakan (sifat)",
+      "penjelasan": "～っぽい = kecenderungan sifat.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-12",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "読みかけの本 artinya?",
+      "opsi": [
+        "Sudah selesai dibaca",
+        "Belum selesai dibaca",
+        "Mau dibaca",
+        "Tidak mau dibaca"
+      ],
+      "jawaban": "Belum selesai dibaca",
+      "penjelasan": "～かけ = belum selesai.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-13",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "どころか dipakai untuk?",
+      "opsi": [
+        "Menegaskan",
+        "Malah sebaliknya (kontras)",
+        "Sebab",
+        "Waktu"
+      ],
+      "jawaban": "Malah sebaliknya (kontras)",
+      "penjelasan": "褒めるどころか怒られた.",
       "tag": "bunpou",
       "level": "n2",
       "kategori": "bunpou"
