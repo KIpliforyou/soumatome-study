@@ -1,0 +1,1481 @@
+{
+  "kanji": [
+    {
+      "char": "人",
+      "onyomi": [
+        "ジン",
+        "ニン"
+      ],
+      "kunyomi": [
+        "ひと"
+      ],
+      "arti_id": "orang",
+      "strokes": 2,
+      "contoh_kata": [
+        {
+          "kata": "日本人",
+          "kana": "にほんじん",
+          "arti": "orang Jepang"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "日",
+      "onyomi": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kunyomi": [
+        "ひ",
+        "か"
+      ],
+      "arti_id": "hari, matahari",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "日本",
+          "kana": "にほん",
+          "arti": "Jepang"
+        },
+        {
+          "kata": "今日",
+          "kana": "きょう",
+          "arti": "hari ini"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "月",
+      "onyomi": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kunyomi": [
+        "つき"
+      ],
+      "arti_id": "bulan",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "月曜日",
+          "kana": "げつようび",
+          "arti": "hari Senin"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "水",
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "みず"
+      ],
+      "arti_id": "air",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "水曜日",
+          "kana": "すいようび",
+          "arti": "hari Rabu"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "火",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひ"
+      ],
+      "arti_id": "api",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "火曜日",
+          "kana": "かようび",
+          "arti": "hari Selasa"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "木",
+      "onyomi": [
+        "モク",
+        "ボク"
+      ],
+      "kunyomi": [
+        "き"
+      ],
+      "arti_id": "pohon",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "木曜日",
+          "kana": "もくようび",
+          "arti": "hari Kamis"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "金",
+      "onyomi": [
+        "キン",
+        "コン"
+      ],
+      "kunyomi": [
+        "かね"
+      ],
+      "arti_id": "emas, uang",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "金曜日",
+          "kana": "きんようび",
+          "arti": "hari Jumat"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "土",
+      "onyomi": [
+        "ド",
+        "ト"
+      ],
+      "kunyomi": [
+        "つち"
+      ],
+      "arti_id": "tanah",
+      "strokes": 3,
+      "contoh_kata": [
+        {
+          "kata": "土曜日",
+          "kana": "どようび",
+          "arti": "hari Sabtu"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "山",
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "やま"
+      ],
+      "arti_id": "gunung",
+      "strokes": 3,
+      "contoh_kata": [
+        {
+          "kata": "富士山",
+          "kana": "ふじさん",
+          "arti": "Gunung Fuji"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "川",
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "arti_id": "sungai",
+      "strokes": 3,
+      "contoh_kata": [
+        {
+          "kata": "川",
+          "kana": "かわ",
+          "arti": "sungai"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "田",
+      "onyomi": [
+        "デン"
+      ],
+      "kunyomi": [
+        "た"
+      ],
+      "arti_id": "sawah",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "田中",
+          "kana": "たなか",
+          "arti": "Tanaka (nama)"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "学",
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まなぶ"
+      ],
+      "arti_id": "belajar",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "学校",
+          "kana": "がっこう",
+          "arti": "sekolah"
+        },
+        {
+          "kata": "学生",
+          "kana": "がくせい",
+          "arti": "pelajar"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "生",
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "いきる",
+        "うまれる"
+      ],
+      "arti_id": "hidup, lahir",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "先生",
+          "kana": "せんせい",
+          "arti": "guru"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "先",
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "さき"
+      ],
+      "arti_id": "sebelum, depan",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "先週",
+          "kana": "せんしゅう",
+          "arti": "minggu lalu"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "私",
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "わたし"
+      ],
+      "arti_id": "saya",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "私",
+          "kana": "わたし",
+          "arti": "saya"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "何",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "なに",
+        "なん"
+      ],
+      "arti_id": "apa",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "何時",
+          "kana": "なんじ",
+          "arti": "jam berapa"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "本",
+      "onyomi": [
+        "ホン"
+      ],
+      "kunyomi": [
+        "もと"
+      ],
+      "arti_id": "buku, asal",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "日本",
+          "kana": "にほん",
+          "arti": "Jepang"
+        },
+        {
+          "kata": "本",
+          "kana": "ほん",
+          "arti": "buku"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "語",
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "かたる"
+      ],
+      "arti_id": "bahasa, kata",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "日本語",
+          "kana": "にほんご",
+          "arti": "bahasa Jepang"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "行",
+      "onyomi": [
+        "コウ",
+        "ギョウ"
+      ],
+      "kunyomi": [
+        "いく",
+        "おこなう"
+      ],
+      "arti_id": "pergi",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "行く",
+          "kana": "いく",
+          "arti": "pergi"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "来",
+      "onyomi": [
+        "ライ"
+      ],
+      "kunyomi": [
+        "くる",
+        "きたる"
+      ],
+      "arti_id": "datang",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "来る",
+          "kana": "くる",
+          "arti": "datang"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "食",
+      "onyomi": [
+        "ショク"
+      ],
+      "kunyomi": [
+        "たべる"
+      ],
+      "arti_id": "makan",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "食べる",
+          "kana": "たべる",
+          "arti": "makan"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "飲",
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [
+        "のむ"
+      ],
+      "arti_id": "minum",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "飲む",
+          "kana": "のむ",
+          "arti": "minum"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "見",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "みる"
+      ],
+      "arti_id": "melihat",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "見る",
+          "kana": "みる",
+          "arti": "melihat"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "聞",
+      "onyomi": [
+        "ブン",
+        "モン"
+      ],
+      "kunyomi": [
+        "きく"
+      ],
+      "arti_id": "mendengar",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "聞く",
+          "kana": "きく",
+          "arti": "mendengar"
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    }
+  ],
+  "kotoba": [
+    {
+      "id": "n5-kotoba-1",
+      "kanji": "私",
+      "kana": "わたし",
+      "romaji": "watashi",
+      "arti_id": "saya",
+      "kelas_kata": "pronomina",
+      "contoh_kalimat": {
+        "jp": "私は学生です。",
+        "kana": "わたしは がくせいです。",
+        "id": "Saya adalah pelajar."
+      },
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n5-kotoba-2",
+      "kana": "あなた",
+      "romaji": "anata",
+      "arti_id": "kamu",
+      "kelas_kata": "pronomina",
+      "contoh_kalimat": {
+        "jp": "あなたは誰ですか。",
+        "kana": "あなたは だれですか。",
+        "id": "Kamu siapa?"
+      },
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n5-kotoba-3",
+      "kanji": "今日",
+      "kana": "きょう",
+      "romaji": "kyou",
+      "arti_id": "hari ini",
+      "kelas_kata": "nomina waktu",
+      "contoh_kalimat": {
+        "jp": "今日は暑いです。",
+        "kana": "きょうは あついです。",
+        "id": "Hari ini panas."
+      },
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n5-kotoba-4",
+      "kanji": "明日",
+      "kana": "あした",
+      "romaji": "ashita",
+      "arti_id": "besok",
+      "kelas_kata": "nomina waktu",
+      "contoh_kalimat": {
+        "jp": "明日学校に行きます。",
+        "kana": "あした がっこうに いきます。",
+        "id": "Besok pergi ke sekolah."
+      },
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n5-kotoba-5",
+      "kanji": "昨日",
+      "kana": "きのう",
+      "romaji": "kinou",
+      "arti_id": "kemarin",
+      "kelas_kata": "nomina waktu",
+      "contoh_kalimat": {
+        "jp": "昨日は雨でした。",
+        "kana": "きのうは あめでした。",
+        "id": "Kemarin hujan."
+      },
+      "level": "n5",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n5-kotoba-6",
+      "kanji": "学校",
+      "kana": "がっこう",
+      "romaji": "gakkou",
+      "arti_id": "sekolah",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "学校は広いです。",
+        "kana": "がっこうは ひろいです。",
+        "id": "Sekolahnya luas."
+      },
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n5-kotoba-7",
+      "kanji": "家",
+      "kana": "いえ",
+      "romaji": "ie",
+      "arti_id": "rumah",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "家に帰ります。",
+        "kana": "いえに かえります。",
+        "id": "Pulang ke rumah."
+      },
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n5-kotoba-8",
+      "kanji": "駅",
+      "kana": "えき",
+      "romaji": "eki",
+      "arti_id": "stasiun",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "駅まで歩きます。",
+        "kana": "えきまで あるきます。",
+        "id": "Jalan kaki sampai stasiun."
+      },
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n5-kotoba-9",
+      "kana": "コーヒー",
+      "romaji": "koohii",
+      "arti_id": "kopi",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "コーヒーを飲みます。",
+        "kana": "コーヒーを のみます。",
+        "id": "Minum kopi."
+      },
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n5-kotoba-10",
+      "kanji": "水",
+      "kana": "みず",
+      "romaji": "mizu",
+      "arti_id": "air",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "水をください。",
+        "kana": "みずを ください。",
+        "id": "Minta air."
+      },
+      "level": "n5",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n5-kotoba-11",
+      "kanji": "食べる",
+      "kana": "たべる",
+      "romaji": "taberu",
+      "arti_id": "makan",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "朝ごはんを食べます。",
+        "kana": "あさごはんを たべます。",
+        "id": "Makan sarapan."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-12",
+      "kanji": "飲む",
+      "kana": "のむ",
+      "romaji": "nomu",
+      "arti_id": "minum",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "お茶を飲みます。",
+        "kana": "おちゃを のみます。",
+        "id": "Minum teh."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-13",
+      "kanji": "行く",
+      "kana": "いく",
+      "romaji": "iku",
+      "arti_id": "pergi",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "日本へ行きます。",
+        "kana": "にほんへ いきます。",
+        "id": "Pergi ke Jepang."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-14",
+      "kanji": "来る",
+      "kana": "くる",
+      "romaji": "kuru",
+      "arti_id": "datang",
+      "kelas_kata": "verba tak beraturan",
+      "contoh_kalimat": {
+        "jp": "友達が来ます。",
+        "kana": "ともだちが きます。",
+        "id": "Teman datang."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-15",
+      "kanji": "見る",
+      "kana": "みる",
+      "romaji": "miru",
+      "arti_id": "melihat",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "映画を見ます。",
+        "kana": "えいがを みます。",
+        "id": "Menonton film."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-16",
+      "kanji": "買う",
+      "kana": "かう",
+      "romaji": "kau",
+      "arti_id": "membeli",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "本を買います。",
+        "kana": "ほんを かいます。",
+        "id": "Membeli buku."
+      },
+      "level": "n5",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n5-kotoba-17",
+      "kana": "大きい",
+      "romaji": "ookii",
+      "arti_id": "besar",
+      "kelas_kata": "adjektiva-i",
+      "contoh_kalimat": {
+        "jp": "大きい家です。",
+        "kana": "おおきい いえです。",
+        "id": "Rumah yang besar."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-18",
+      "kana": "小さい",
+      "romaji": "chiisai",
+      "arti_id": "kecil",
+      "kelas_kata": "adjektiva-i",
+      "contoh_kalimat": {
+        "jp": "小さいかばんです。",
+        "kana": "ちいさい かばんです。",
+        "id": "Tas yang kecil."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-19",
+      "kana": "きれい",
+      "romaji": "kirei",
+      "arti_id": "cantik, bersih",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "きれいな部屋です。",
+        "kana": "きれいな へやです。",
+        "id": "Kamar yang cantik/bersih."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-20",
+      "kana": "元気",
+      "romaji": "genki",
+      "arti_id": "sehat, semangat",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "元気ですか。",
+        "kana": "げんきですか。",
+        "id": "Apa kabar? (sehat?)"
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-21",
+      "kanji": "安い",
+      "kana": "やすい",
+      "romaji": "yasui",
+      "arti_id": "murah",
+      "kelas_kata": "adjektiva-i",
+      "contoh_kalimat": {
+        "jp": "この本は安いです。",
+        "kana": "このほんは やすいです。",
+        "id": "Buku ini murah."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-22",
+      "kanji": "高い",
+      "kana": "たかい",
+      "romaji": "takai",
+      "arti_id": "mahal, tinggi",
+      "kelas_kata": "adjektiva-i",
+      "contoh_kalimat": {
+        "jp": "あの時計は高いです。",
+        "kana": "あのとけいは たかいです。",
+        "id": "Jam itu mahal."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-23",
+      "kana": "とても",
+      "romaji": "totemo",
+      "arti_id": "sangat",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "とてもおいしいです。",
+        "kana": "とても おいしいです。",
+        "id": "Sangat enak."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-kotoba-24",
+      "kana": "ゆっくり",
+      "romaji": "yukkuri",
+      "arti_id": "pelan-pelan",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "ゆっくり話してください。",
+        "kana": "ゆっくり はなしてください。",
+        "id": "Tolong bicara pelan-pelan."
+      },
+      "level": "n5",
+      "unit": "minggu-4"
+    }
+  ],
+  "bunpou": [
+    {
+      "id": "n5-bunpou-1",
+      "pola": "～は～です",
+      "arti": "adalah",
+      "rumus": "Topik は Keterangan です",
+      "inti_singkat": "Pola paling dasar untuk bilang 'A adalah B'. は dibaca 'wa'.",
+      "penjelasan": "Gunakan は untuk menandai topik. です adalah kopula sopan. Untuk negatif pakai ではありません, untuk lampau でした. Contoh: 私は学生です。→ Saya adalah pelajar.",
+      "perbandingan": "Berbeda dengan が yang menandai subjek baru/informasi baru. は = topik yang sudah diketahui.",
+      "contoh": [
+        {
+          "jp": "私はインドネシア人です。",
+          "kana": "わたしは インドネシアじんです。",
+          "id": "Saya orang Indonesia."
+        },
+        {
+          "jp": "これは本です。",
+          "kana": "これは ほんです。",
+          "id": "Ini adalah buku."
+        },
+        {
+          "jp": "田中さんは先生です。",
+          "kana": "たなかさんは せんせいです。",
+          "id": "Tanaka adalah guru."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah baca は sebagai 'ha' bukan 'wa'",
+        "Lupa です di akhir kalimat sopan"
+      ],
+      "level": "n5",
+      "unit": "minggu-1",
+      "tags": [
+        "dasar"
+      ]
+    },
+    {
+      "id": "n5-bunpou-2",
+      "pola": "～を～ます",
+      "arti": "melakukan aksi ke objek",
+      "rumus": "Objek を Verba-ます",
+      "inti_singkat": "を menandai objek yang dikenai aksi. Wajib pakai を kalau kata kerjanya transitif.",
+      "penjelasan": "を (dibaca 'o') menandai objek. Verba bentuk ます adalah bentuk sopan. Contoh: 本を読みます = membaca buku. Tanpa を, kalimat jadi aneh.",
+      "perbandingan": "は vs を: は= topik, を= objek. 私は本を読みます = Saya membaca buku (私= topik, 本= objek).",
+      "contoh": [
+        {
+          "jp": "水を飲みます。",
+          "kana": "みずを のみます。",
+          "id": "Minum air."
+        },
+        {
+          "jp": "音楽を聞きます。",
+          "kana": "おんがくを ききます。",
+          "id": "Mendengarkan musik."
+        },
+        {
+          "jp": "宿題をします。",
+          "kana": "しゅくだいを します。",
+          "id": "Mengerjakan PR."
+        }
+      ],
+      "kesalahan_umum": [
+        "Menulis わ bukan を",
+        "Lupa を untuk verba transitif"
+      ],
+      "level": "n5",
+      "unit": "minggu-1",
+      "tags": [
+        "partikel"
+      ]
+    },
+    {
+      "id": "n5-bunpou-3",
+      "pola": "～に行きます",
+      "arti": "pergi ke ~",
+      "rumus": "Tempat に 行きます / 来ます / 帰ります",
+      "inti_singkat": "に menandai tujuan gerakan. Hanya untuk kata kerja pergerakan (行く, 来る, 帰る).",
+      "penjelasan": "Kalau mau bilang pergi ke suatu tempat, pakai に. Contoh: 学校に行きます. Alternatif へ juga bisa (lebih nuansa arah), tapi に lebih umum di N5.",
+      "perbandingan": "に vs へ: keduanya bisa untuk tujuan, tapi に lebih ke titik sampai, へ lebih ke arah.",
+      "contoh": [
+        {
+          "jp": "学校に行きます。",
+          "kana": "がっこうに いきます。",
+          "id": "Pergi ke sekolah."
+        },
+        {
+          "jp": "家に帰ります。",
+          "kana": "いえに かえります。",
+          "id": "Pulang ke rumah."
+        },
+        {
+          "jp": "日本に来ました。",
+          "kana": "にほんに きました。",
+          "id": "Datang ke Jepang."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai を bukan に untuk tujuan",
+        "Tertukar に dan で"
+      ],
+      "level": "n5",
+      "unit": "minggu-1",
+      "tags": [
+        "partikel"
+      ]
+    },
+    {
+      "id": "n5-bunpou-4",
+      "pola": "～で",
+      "arti": "di, dengan, pakai",
+      "rumus": "Tempat で / Alat で",
+      "inti_singkat": "で punya 2 arti utama: (1) tempat melakukan aksi, (2) alat/cara.",
+      "penjelasan": "学校で勉強します = belajar di sekolah (tempat aksi). はしで食べます = makan pakai sumpit (alat). Jangan tertukar dengan に yang untuk keberadaan/Statis.",
+      "perbandingan": "で (tempat aksi) vs に (keberadaan): 部屋にいます (ada di kamar) vs 部屋で寝ます (tidur di kamar – aksi).",
+      "contoh": [
+        {
+          "jp": "図書館で本を読みます。",
+          "kana": "としょかんで ほんを よみます。",
+          "id": "Membaca buku di perpustakaan."
+        },
+        {
+          "jp": "バスで行きます。",
+          "kana": "バスで いきます。",
+          "id": "Pergi dengan bus."
+        },
+        {
+          "jp": "はしで食べます。",
+          "kana": "はしで たべます。",
+          "id": "Makan dengan sumpit."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai に untuk tempat beraksi (salah)",
+        "Lupa bedakan alat vs tempat"
+      ],
+      "level": "n5",
+      "unit": "minggu-2",
+      "tags": [
+        "partikel"
+      ]
+    },
+    {
+      "id": "n5-bunpou-5",
+      "pola": "い-adjektiva / な-adjektiva",
+      "arti": "sifat",
+      "rumus": "い-Adj + です / な-Adj + な + Noun / な-Adj + です",
+      "inti_singkat": "Adjektiva-i berakhiran い (大きい), adjektiva-na butuh な sebelum noun (きれいな部屋).",
+      "penjelasan": "い-adj: langsung tempel noun (大きい家), negatif くないです. な-adj: butuh な (きれいな人), negatif ではありません. Keduanya bisa jadi predikat dengan です.",
+      "perbandingan": "大きい (i-adj) vs きれい (na-adj): beda cara tempel noun dan cara negatif.",
+      "contoh": [
+        {
+          "jp": "大きい犬です。",
+          "kana": "おおきい いぬです。",
+          "id": "Anjing yang besar."
+        },
+        {
+          "jp": "きれいな花です。",
+          "kana": "きれいな はなです。",
+          "id": "Bunga yang cantik."
+        },
+        {
+          "jp": "この部屋は広くないです。",
+          "kana": "このへやは ひろくないです。",
+          "id": "Kamar ini tidak luas."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa な untuk na-adj sebelum noun",
+        "Salah konjugasi negatif"
+      ],
+      "level": "n5",
+      "unit": "minggu-2",
+      "tags": [
+        "adjektiva"
+      ]
+    },
+    {
+      "id": "n5-bunpou-6",
+      "pola": "～が好きです / 嫌いです",
+      "arti": "suka / tidak suka",
+      "rumus": "Noun が 好きです / 嫌いです",
+      "inti_singkat": "Suka/tidak suka pakai が, bukan を. Subjek yang suka pakai は.",
+      "penjelasan": "私はコーヒーが好きです = Saya suka kopi. が menandai objek kesukaan (bukan を). Untuk tanya: コーヒーが好きですか。",
+      "perbandingan": "好き (suka) vs 欲しい (ingin) — keduanya pakai が untuk objek, bukan を.",
+      "contoh": [
+        {
+          "jp": "私は猫が好きです。",
+          "kana": "わたしは ねこが すきです。",
+          "id": "Saya suka kucing."
+        },
+        {
+          "jp": "納豆が嫌いです。",
+          "kana": "なっとうが きらいです。",
+          "id": "Tidak suka natto."
+        },
+        {
+          "jp": "どんな音楽が好きですか。",
+          "kana": "どんな おんがくが すきですか。",
+          "id": "Musik seperti apa yang kamu suka?"
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai を bukan が",
+        "Lupa topik は"
+      ],
+      "level": "n5",
+      "unit": "minggu-2",
+      "tags": [
+        "ekspresi"
+      ]
+    },
+    {
+      "id": "n5-bunpou-7",
+      "pola": "～ましょう / ～ませんか",
+      "arti": "ayo ~ / bagaimana kalau ~?",
+      "rumus": "Verba-ます stem + ましょう / ませんか",
+      "inti_singkat": "ましょう = ajakan 'ayo', ませんか = ajakan sopan 'mau ...?'.",
+      "penjelasan": "行きましょう = ayo pergi. 行きませんか = bagaimana kalau pergi (mengajak). ましょう lebih langsung, ませんか lebih sopan mengajak.",
+      "perbandingan": "ましょう (ayo kita) vs ましょうか (bagaimana kalau saya lakukan untukmu). Beda nuansa.",
+      "contoh": [
+        {
+          "jp": "一緒に食べましょう。",
+          "kana": "いっしょに たべましょう。",
+          "id": "Ayo makan bersama."
+        },
+        {
+          "jp": "コーヒーを飲みませんか。",
+          "kana": "コーヒーを のみませんか。",
+          "id": "Bagaimana kalau minum kopi?"
+        },
+        {
+          "jp": "映画を見ましょうか。",
+          "kana": "えいがを みましょうか。",
+          "id": "Bagaimana kalau kita nonton film?"
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk stem",
+        "Tertukar ましょう dan ませんか"
+      ],
+      "level": "n5",
+      "unit": "minggu-3",
+      "tags": [
+        "ajakan"
+      ]
+    },
+    {
+      "id": "n5-bunpou-8",
+      "pola": "～てください",
+      "arti": "tolong ~",
+      "rumus": "Verba-て + ください",
+      "inti_singkat": "Bentuk sopan untuk minta tolong. Paling sering dipakai sehari-hari.",
+      "penjelasan": "Bentuk て + ください. Contoh: 見てください = tolong lihat. Lebih sopan dari bentuk kasar て saja. Untuk melarang: ないでください.",
+      "perbandingan": "てください (tolong lakukan) vs ないでください (tolong jangan lakukan).",
+      "contoh": [
+        {
+          "jp": "ちょっと待ってください。",
+          "kana": "ちょっと まってください。",
+          "id": "Tolong tunggu sebentar."
+        },
+        {
+          "jp": "ゆっくり話してください。",
+          "kana": "ゆっくり はなしてください。",
+          "id": "Tolong bicara pelan-pelan."
+        },
+        {
+          "jp": "ここに名前を書いてください。",
+          "kana": "ここに なまえを かいてください。",
+          "id": "Tolong tulis nama di sini."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa bentuk て",
+        "Pakai ます bukan て"
+      ],
+      "level": "n5",
+      "unit": "minggu-3",
+      "tags": [
+        "permintaan"
+      ]
+    },
+    {
+      "id": "n5-bunpou-9",
+      "pola": "～から / ～まで",
+      "arti": "dari ~ sampai ~",
+      "rumus": "Waktu/Tempat から Waktu/Tempat まで",
+      "inti_singkat": "から = titik awal, まで = titik akhir. Bisa untuk waktu, tempat, bahkan orang.",
+      "penjelasan": "9時から5時まで働きます = kerja dari jam 9 sampai jam 5. 東京から大阪まで = dari Tokyo sampai Osaka.",
+      "perbandingan": "から/まで (rentang) vs に (titik waktu): 9時に起きます (bangun pada jam 9) vs 9時から (mulai dari jam 9).",
+      "contoh": [
+        {
+          "jp": "9時から12時まで勉強します。",
+          "kana": "くじから じゅうにじまで べんきょうします。",
+          "id": "Belajar dari jam 9 sampai 12."
+        },
+        {
+          "jp": "駅から家まで歩きます。",
+          "kana": "えきから いえまで あるきます。",
+          "id": "Jalan kaki dari stasiun sampai rumah."
+        },
+        {
+          "jp": "月曜日から金曜日まで働きます。",
+          "kana": "げつようびから きんようびまで はたらきます。",
+          "id": "Kerja dari Senin sampai Jumat."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar から dan から後?",
+        "Lupa まで untuk batas akhir"
+      ],
+      "level": "n5",
+      "unit": "minggu-3",
+      "tags": [
+        "partikel"
+      ]
+    },
+    {
+      "id": "n5-bunpou-10",
+      "pola": "～がいます / あります",
+      "arti": "ada (makhluk hidup / benda)",
+      "rumus": "Noun が います / あります",
+      "inti_singkat": "います untuk manusia/hewan (hidup), あります untuk benda/tumbuhan.",
+      "penjelasan": "猫がいます = ada kucing. 本があります = ada buku. Tempat pakai に: 机の上に本があります.",
+      "perbandingan": "いる vs ある: jangan tertukar! Manusia/hewan=いる, benda=ある.",
+      "contoh": [
+        {
+          "jp": "公園に子供がいます。",
+          "kana": "こうえんに こどもが います。",
+          "id": "Ada anak di taman."
+        },
+        {
+          "jp": "部屋に机があります。",
+          "kana": "へやに つくえが あります。",
+          "id": "Ada meja di kamar."
+        },
+        {
+          "jp": "兄弟が二人います。",
+          "kana": "きょうだいが ふたりいます。",
+          "id": "Punya dua saudara."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai いる untuk benda",
+        "Lupa partikel に untuk tempat"
+      ],
+      "level": "n5",
+      "unit": "minggu-4",
+      "tags": [
+        "keberadaan"
+      ]
+    }
+  ],
+  "dokkai": [
+    {
+      "id": "n5-dokkai-1",
+      "judul": "Hari pertama di sekolah",
+      "teks": "私はブラジル人です。先週日本に来ました。今日は初めて学校に行きました。学校はとても大きいです。先生は田中先生です。田中先生はとても親切です。昼ごはんは友達と一緒に食べました。とても楽しかったです。",
+      "kana": "わたしは ブラジルじんです。せんしゅう にほんにきました。きょうは はじめてがっこうにいきました。がっこうは とてもおおきいです。せんせいは たなかせんせいです。とてもしんせつです。ひるごはんは ともだちといっしょにたべました。とてもたのしかったです。",
+      "terjemah_id": "Saya orang Brasil. Minggu lalu datang ke Jepang. Hari ini pertama kali pergi ke sekolah. Sekolahnya sangat besar. Gurunya adalah Tanaka-sensei. Beliau sangat baik. Makan siang bersama teman. Sangat menyenangkan.",
+      "pertanyaan": [
+        {
+          "q": "Penulis berasal dari mana?",
+          "opsi": [
+            "Jepang",
+            "Brasil",
+            "Indonesia",
+            "Amerika"
+          ],
+          "jawaban": 1,
+          "penjelasan": "Teks: 私はブラジル人です = Saya orang Brasil."
+        },
+        {
+          "q": "Kapan penulis datang ke Jepang?",
+          "opsi": [
+            "Hari ini",
+            "Kemarin",
+            "Minggu lalu",
+            "Bulan lalu"
+          ],
+          "jawaban": 2,
+          "penjelasan": "先週 = minggu lalu."
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-dokkai-2",
+      "judul": "Akhir pekan",
+      "teks": "土曜日は友達と映画を見ました。映画はとても面白かったです。そのあと喫茶店でコーヒーを飲みました。日曜日は家で本を読みました。夜は家族と一緒にごはんを食べました。",
+      "terjemah_id": "Hari Sabtu menonton film dengan teman. Filmnya sangat menarik. Setelah itu minum kopi di kafe. Hari Minggu membaca buku di rumah. Malam makan bersama keluarga.",
+      "pertanyaan": [
+        {
+          "q": "Apa yang dilakukan hari Sabtu?",
+          "opsi": [
+            "Membaca buku",
+            "Menonton film",
+            "Pergi ke sekolah",
+            "Tidur seharian"
+          ],
+          "jawaban": 1,
+          "penjelasan": "土曜日は友達と映画を見ました."
+        },
+        {
+          "q": "Di mana minum kopi?",
+          "opsi": [
+            "Di rumah",
+            "Di stasiun",
+            "Di kafe/喫茶店",
+            "Di sekolah"
+          ],
+          "jawaban": 2,
+          "penjelasan": "喫茶店でコーヒーを飲みました."
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-dokkai-3",
+      "judul": "Keluarga saya",
+      "teks": "私の家族は四人です。父と母と妹と私です。父は会社員で、母は看護師です。妹は高校生です。週末はみんなで公園に行きます。",
+      "terjemah_id": "Keluarga saya 4 orang. Ayah, ibu, adik perempuan, dan saya. Ayah pegawai kantoran, ibu perawat. Adik SMA. Akhir pekan pergi ke taman bersama.",
+      "pertanyaan": [
+        {
+          "q": "Berapa orang keluarganya?",
+          "opsi": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "jawaban": 1,
+          "penjelasan": "四人です = 4 orang."
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    }
+  ],
+  "choukai": [
+    {
+      "id": "n5-choukai-1",
+      "judul": "Di stasiun",
+      "naskah": "A: すみません、駅はどこですか。 B: あのビルの隣です。 A: ありがとうございます。 B: どういたしまして。",
+      "terjemah_id": "A: Permisi, stasiun di mana? B: Di sebelah gedung itu. A: Terima kasih. B: Sama-sama.",
+      "pertanyaan": [
+        {
+          "q": "Di mana stasiun?",
+          "opsi": [
+            "Di sebelah gedung",
+            "Di depan sekolah",
+            "Di dalam taman",
+            "Jauh sekali"
+          ],
+          "jawaban": 0,
+          "penjelasan": "あのビルの隣です = di sebelah gedung itu."
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n5-choukai-2",
+      "judul": "Memesan minuman",
+      "naskah": "店員：いらっしゃいませ。何にしますか。 客：コーヒーをください。 店員：ホットですか、アイスですか。 客：アイスでお願いします。",
+      "terjemah_id": "Pelayan: Selamat datang, mau pesan apa? Pelanggan: Kopi. Pelayan: Panas atau es? Pelanggan: Es please.",
+      "pertanyaan": [
+        {
+          "q": "Pelanggan pesan apa?",
+          "opsi": [
+            "Teh panas",
+            "Kopi es",
+            "Air putih",
+            "Jus"
+          ],
+          "jawaban": 1,
+          "penjelasan": "アイスでお願いします = minta yang es."
+        }
+      ],
+      "level": "n5",
+      "unit": "minggu-4"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "n5-quiz-1",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Apa bacaan kanji 人 saat menjadi 日本人?",
+      "opsi": [
+        "ひと",
+        "じん",
+        "にん",
+        "ひとびと"
+      ],
+      "jawaban": "じん",
+      "penjelasan": "日本人 = にほんじん, 人 dibaca ジン.",
+      "tag": "kanji",
+      "level": "n5",
+      "kategori": "kanji"
+    },
+    {
+      "id": "n5-quiz-2",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Pilih partikel yang tepat: 私___学生です。",
+      "opsi": [
+        "を",
+        "に",
+        "は",
+        "で"
+      ],
+      "jawaban": "は",
+      "penjelasan": "Topik = は. 私は学生です.",
+      "tag": "bunpou",
+      "level": "n5",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n5-quiz-3",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Arti dari 明日 adalah?",
+      "opsi": [
+        "hari ini",
+        "kemarin",
+        "besok",
+        "minggu depan"
+      ],
+      "jawaban": "besok",
+      "penjelasan": "明日 = あした = besok.",
+      "tag": "kotoba",
+      "level": "n5",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n5-quiz-4",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Mana yang benar untuk 'Saya suka kopi'?",
+      "opsi": [
+        "私はコーヒーを好きです",
+        "私はコーヒーが好きです",
+        "私はコーヒーに好きです",
+        "私はコーヒーで好きです"
+      ],
+      "jawaban": "私はコーヒーが好きです",
+      "penjelasan": "Suka pakai が: ～が好きです.",
+      "tag": "bunpou",
+      "level": "n5",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n5-quiz-5",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Bentuk sopan 'tolong tunggu' adalah?",
+      "opsi": [
+        "待って",
+        "待ちます",
+        "待ってください",
+        "待たないで"
+      ],
+      "jawaban": "待ってください",
+      "penjelasan": "～てください = tolong ...",
+      "tag": "bunpou",
+      "level": "n5",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n5-quiz-6",
+      "tipe": "tebak_bacaan",
+      "pertanyaan": "Bacaan kanji 水 dalam 水曜日 adalah?",
+      "opsi": [
+        "みず",
+        "すい",
+        "か",
+        "み"
+      ],
+      "jawaban": "すい",
+      "penjelasan": "水曜日 = すいようび.",
+      "tag": "kanji",
+      "level": "n5",
+      "kategori": "kanji"
+    },
+    {
+      "id": "n5-quiz-7",
+      "tipe": "tebak_arti",
+      "pertanyaan": "Arti kata きれい adalah?",
+      "opsi": [
+        "besar",
+        "cantik/bersih",
+        "mahal",
+        "sibuk"
+      ],
+      "jawaban": "cantik/bersih",
+      "penjelasan": "きれい = cantik atau bersih (na-adj).",
+      "tag": "kotoba",
+      "level": "n5",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n5-quiz-8",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Pilih yang pakai います dengan benar:",
+      "opsi": [
+        "本がいます",
+        "猫がいます",
+        "机がいます",
+        "水がいます"
+      ],
+      "jawaban": "猫がいます",
+      "penjelasan": "います untuk makhluk hidup. 猫 = kucing.",
+      "tag": "bunpou",
+      "level": "n5",
+      "kategori": "bunpou"
+    }
+  ]
+}

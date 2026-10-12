@@ -1,0 +1,1129 @@
+{
+  "kanji": [
+    {
+      "char": "会",
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "あう"
+      ],
+      "arti_id": "bertemu",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "会社",
+          "kana": "かいしゃ",
+          "arti": "perusahaan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "社",
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "やしろ"
+      ],
+      "arti_id": "perusahaan, kuil",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "会社",
+          "kana": "かいしゃ",
+          "arti": "perusahaan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "員",
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [],
+      "arti_id": "anggota",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "店員",
+          "kana": "てんいん",
+          "arti": "pegawai toko"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "働",
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "はたらく"
+      ],
+      "arti_id": "bekerja",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "働く",
+          "kana": "はたらく",
+          "arti": "bekerja"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "休",
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "やすむ"
+      ],
+      "arti_id": "istirahat",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "休む",
+          "kana": "やすむ",
+          "arti": "istirahat"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "勉",
+      "onyomi": [
+        "ベン"
+      ],
+      "kunyomi": [],
+      "arti_id": "giat",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "勉強",
+          "kana": "べんきょう",
+          "arti": "belajar"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "強",
+      "onyomi": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "つよい"
+      ],
+      "arti_id": "kuat",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "勉強",
+          "kana": "べんきょう",
+          "arti": "belajar"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "道",
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "みち"
+      ],
+      "arti_id": "jalan",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "北海道",
+          "kana": "ほっかいどう",
+          "arti": "Hokkaido"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "建",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "たてる"
+      ],
+      "arti_id": "membangun",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "建物",
+          "kana": "たてもの",
+          "arti": "bangunan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "物",
+      "onyomi": [
+        "ブツ",
+        "モツ"
+      ],
+      "kunyomi": [
+        "もの"
+      ],
+      "arti_id": "benda",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "食べ物",
+          "kana": "たべもの",
+          "arti": "makanan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "使",
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "つかう"
+      ],
+      "arti_id": "memakai",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "使う",
+          "kana": "つかう",
+          "arti": "memakai"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "借",
+      "onyomi": [
+        "シャク"
+      ],
+      "kunyomi": [
+        "かりる"
+      ],
+      "arti_id": "meminjam",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "借りる",
+          "kana": "かりる",
+          "arti": "meminjam"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "貸",
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "かす"
+      ],
+      "arti_id": "meminjamkan",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "貸す",
+          "kana": "かす",
+          "arti": "meminjamkan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "返",
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "かえす"
+      ],
+      "arti_id": "mengembalikan",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "返す",
+          "kana": "かえす",
+          "arti": "mengembalikan"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "教",
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "おしえる"
+      ],
+      "arti_id": "mengajar",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "教える",
+          "kana": "おしえる",
+          "arti": "mengajar"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "習",
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "ならう"
+      ],
+      "arti_id": "berlatih",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "習う",
+          "kana": "ならう",
+          "arti": "belajar dari guru"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "漢",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [],
+      "arti_id": "Han (Cina)",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "漢字",
+          "kana": "かんじ",
+          "arti": "kanji"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "字",
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "あざ"
+      ],
+      "arti_id": "huruf",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "漢字",
+          "kana": "かんじ",
+          "arti": "kanji"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "代",
+      "onyomi": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "かわる"
+      ],
+      "arti_id": "menggantikan",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "時代",
+          "kana": "じだい",
+          "arti": "zaman"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "以",
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "arti_id": "dengan, sejak",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "以上",
+          "kana": "いじょう",
+          "arti": "di atas"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "前",
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [
+        "まえ"
+      ],
+      "arti_id": "depan, sebelum",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "名前",
+          "kana": "なまえ",
+          "arti": "nama"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "後",
+      "onyomi": [
+        "ゴ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "あと",
+        "うしろ"
+      ],
+      "arti_id": "belakang, setelah",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "午後",
+          "kana": "ごご",
+          "arti": "sore"
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    }
+  ],
+  "kotoba": [
+    {
+      "id": "n4-kotoba-1",
+      "kanji": "働く",
+      "kana": "はたらく",
+      "romaji": "hataraku",
+      "arti_id": "bekerja",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "父は会社で働いています。",
+        "kana": "ちちは かいしゃで はたらいています。",
+        "id": "Ayah bekerja di perusahaan."
+      },
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n4-kotoba-2",
+      "kanji": "休む",
+      "kana": "やすむ",
+      "romaji": "yasumu",
+      "arti_id": "istirahat",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "今日は家で休みます。",
+        "kana": "きょうは いえで やすみます。",
+        "id": "Hari ini istirahat di rumah."
+      },
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n4-kotoba-3",
+      "kanji": "勉強する",
+      "kana": "べんきょうする",
+      "romaji": "benkyou suru",
+      "arti_id": "belajar",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "日本語を勉強しています。",
+        "kana": "にほんごを べんきょうしています。",
+        "id": "Sedang belajar bahasa Jepang."
+      },
+      "level": "n4",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n4-kotoba-4",
+      "kanji": "使う",
+      "kana": "つかう",
+      "romaji": "tsukau",
+      "arti_id": "memakai",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "はしを使って食べます。",
+        "kana": "はしを つかって たべます。",
+        "id": "Makan pakai sumpit."
+      },
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n4-kotoba-5",
+      "kanji": "借りる",
+      "kana": "かりる",
+      "romaji": "kariru",
+      "arti_id": "meminjam",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "図書館で本を借りました。",
+        "kana": "としょかんで ほんを かりました。",
+        "id": "Meminjam buku di perpustakaan."
+      },
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n4-kotoba-6",
+      "kanji": "貸す",
+      "kana": "かす",
+      "romaji": "kasu",
+      "arti_id": "meminjamkan",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "友達にお金を貸しました。",
+        "kana": "ともだちに おかねを かしました。",
+        "id": "Meminjamkan uang ke teman."
+      },
+      "level": "n4",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n4-kotoba-7",
+      "kanji": "返す",
+      "kana": "かえす",
+      "romaji": "kaesu",
+      "arti_id": "mengembalikan",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "来週本を返します。",
+        "kana": "らいしゅう ほんを かえします。",
+        "id": "Minggu depan mengembalikan buku."
+      },
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n4-kotoba-8",
+      "kanji": "教える",
+      "kana": "おしえる",
+      "romaji": "oshieru",
+      "arti_id": "mengajar, memberitahu",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "先生が漢字を教えてくれました。",
+        "kana": "せんせいが かんじを おしえてくれました。",
+        "id": "Guru mengajarkan kanji."
+      },
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n4-kotoba-9",
+      "kanji": "習う",
+      "kana": "ならう",
+      "romaji": "narau",
+      "arti_id": "belajar (dari guru)",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "ピアノを習っています。",
+        "kana": "ピアノを ならっています。",
+        "id": "Sedang belajar piano."
+      },
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n4-kotoba-10",
+      "kanji": "始める",
+      "kana": "はじめる",
+      "romaji": "hajimeru",
+      "arti_id": "memulai",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "会議を始めましょう。",
+        "kana": "かいぎを はじめましょう。",
+        "id": "Ayo mulai rapat."
+      },
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n4-kotoba-11",
+      "kanji": "続ける",
+      "kana": "つづける",
+      "romaji": "tsuzukeru",
+      "arti_id": "melanjutkan",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "日本語の勉強を続けます。",
+        "kana": "にほんごの べんきょうを つづけます。",
+        "id": "Melanjutkan belajar bahasa Jepang."
+      },
+      "level": "n4",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n4-kotoba-12",
+      "kana": "もちろん",
+      "romaji": "mochiron",
+      "arti_id": "tentu saja",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "もちろん行きます。",
+        "kana": "もちろん いきます。",
+        "id": "Tentu saja pergi."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-13",
+      "kana": "やっと",
+      "romaji": "yatto",
+      "arti_id": "akhirnya",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "やっと宿題が終わった。",
+        "kana": "やっと しゅくだいが おわった。",
+        "id": "Akhirnya PR selesai."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-14",
+      "kanji": "準備する",
+      "kana": "じゅんびする",
+      "romaji": "junbi suru",
+      "arti_id": "persiapan",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "旅行の準備をします。",
+        "kana": "りょこうの じゅんびを します。",
+        "id": "Mempersiapkan perjalanan."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-15",
+      "kanji": "連絡する",
+      "kana": "れんらくする",
+      "romaji": "renraku suru",
+      "arti_id": "menghubungi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "後で連絡します。",
+        "kana": "あとで れんらくします。",
+        "id": "Nanti saya hubungi."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-16",
+      "kanji": "案内する",
+      "kana": "あんないする",
+      "romaji": "annai suru",
+      "arti_id": "memandu",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "駅まで案内します。",
+        "kana": "えきまで あんないします。",
+        "id": "Memandu sampai stasiun."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-17",
+      "kana": "予定",
+      "romaji": "yotei",
+      "arti_id": "rencana",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "週末の予定はありますか。",
+        "kana": "しゅうまつの よていは ありますか。",
+        "id": "Ada rencana akhir pekan?."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n4-kotoba-18",
+      "kanji": "約束する",
+      "kana": "やくそくする",
+      "romaji": "yakusoku suru",
+      "arti_id": "berjanji",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "明日会う約束をしました。",
+        "kana": "あした あう やくそくを しました。",
+        "id": "Berjanji bertemu besok."
+      },
+      "level": "n4",
+      "unit": "minggu-4"
+    }
+  ],
+  "bunpou": [
+    {
+      "id": "n4-bunpou-1",
+      "pola": "～てある",
+      "arti": "telah ~ dan hasilnya tetap",
+      "rumus": "Verba-て + ある",
+      "inti_singkat": "Menekankan hasil dari aksi yang masih terlihat. Mirip 'sudah disiapkan'.",
+      "penjelasan": "窓が開けてある = jendela telah dibuka (dan masih terbuka). Beda dengan ている yang fokus pada aksi berlangsung. てある = fokus hasil.",
+      "perbandingan": "ている (lagi ~ / sudah ~) vs てある (hasil masih ada): 電気がついている vs 電気がつけてある.",
+      "contoh": [
+        {
+          "jp": "窓が開けてあります。",
+          "kana": "まどが あけてあります。",
+          "id": "Jendela dalam keadaan terbuka."
+        },
+        {
+          "jp": "机の上に本が置いてあります。",
+          "kana": "つくえのうえに ほんが おいてあります。",
+          "id": "Buku diletakkan di atas meja."
+        },
+        {
+          "jp": "壁にカレンダーがかけてあります。",
+          "kana": "かべに カレンダーが かけてあります。",
+          "id": "Kalender tergantung di dinding."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar ている dan てある",
+        "Lupa partikel が untuk hasil"
+      ],
+      "level": "n4",
+      "unit": "minggu-1",
+      "tags": [
+        "aspek"
+      ]
+    },
+    {
+      "id": "n4-bunpou-2",
+      "pola": "～なければならない",
+      "arti": "harus",
+      "rumus": "Verba-ない + なければならない",
+      "inti_singkat": "Kewajiban. Versi kasual: なきゃ / なくちゃ.",
+      "penjelasan": "行かなければならない = harus pergi. Negatif? Tidak ada, untuk 'tidak harus' pakai なくてもいい.",
+      "perbandingan": "なければならない (harus) vs なくてもいい (tidak harus / boleh tidak).",
+      "contoh": [
+        {
+          "jp": "宿題をしなければならない。",
+          "kana": "しゅくだいを しなければならない。",
+          "id": "Harus mengerjakan PR."
+        },
+        {
+          "jp": "早く寝なければならない。",
+          "kana": "はやく ねなければならない。",
+          "id": "Harus tidur cepat."
+        },
+        {
+          "jp": "薬を飲まなければならない。",
+          "kana": "くすりを のまなければならない。",
+          "id": "Harus minum obat."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk ない",
+        "Lupa ばならない lengkap"
+      ],
+      "level": "n4",
+      "unit": "minggu-1",
+      "tags": [
+        "kewajiban"
+      ]
+    },
+    {
+      "id": "n4-bunpou-3",
+      "pola": "～てもいい / ～てはいけない",
+      "arti": "boleh / tidak boleh",
+      "rumus": "Verba-て + もいい / はいけない",
+      "inti_singkat": "Izin dan larangan. Paling sering muncul di JLPT.",
+      "penjelasan": "入ってもいい = boleh masuk. 入ってはいけない = tidak boleh masuk. Untuk bertanya izin: 写真を撮ってもいいですか。",
+      "perbandingan": "てもいい (boleh) vs なければならない (harus) — beda kuat.",
+      "contoh": [
+        {
+          "jp": "ここで写真を撮ってもいいですか。",
+          "kana": "ここで しゃしんを とってもいいですか。",
+          "id": "Boleh foto di sini?"
+        },
+        {
+          "jp": "ここでタバコを吸ってはいけません。",
+          "kana": "ここで タバコを すってはいけません。",
+          "id": "Tidak boleh merokok di sini."
+        },
+        {
+          "jp": "辞書を使ってもいいです。",
+          "kana": "じしょを つかってもいいです。",
+          "id": "Boleh memakai kamus."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa は di てはいけない",
+        "Tertukar も dan は"
+      ],
+      "level": "n4",
+      "unit": "minggu-2",
+      "tags": [
+        "izin"
+      ]
+    },
+    {
+      "id": "n4-bunpou-4",
+      "pola": "～たほうがいい",
+      "arti": "sebaiknya",
+      "rumus": "Verba-た + ほうがいい",
+      "inti_singkat": "Saran. 'Lebih baik ...'",
+      "penjelasan": "薬を飲んだほうがいい = sebaiknya minum obat. Negatif: 飲まないほうがいい = sebaiknya jangan minum.",
+      "perbandingan": "たほうがいい (saran) vs なければならない (kewajiban). Saran lebih lembut.",
+      "contoh": [
+        {
+          "jp": "早く寝たほうがいいですよ。",
+          "kana": "はやく ねたほうがいいですよ。",
+          "id": "Sebaiknya tidur cepat."
+        },
+        {
+          "jp": "医者に行ったほうがいい。",
+          "kana": "いしゃに いったほうがいい。",
+          "id": "Sebaiknya pergi ke dokter."
+        },
+        {
+          "jp": "無理をしないほうがいい。",
+          "kana": "むりを しないほうがいい。",
+          "id": "Sebaiknya jangan memaksakan diri."
+        }
+      ],
+      "kesalahan_umum": [
+        "Pakai て bukan た",
+        "Lupa ほうがいい lengkap"
+      ],
+      "level": "n4",
+      "unit": "minggu-2",
+      "tags": [
+        "saran"
+      ]
+    },
+    {
+      "id": "n4-bunpou-5",
+      "pola": "～そうだ (dengar)",
+      "arti": "katanya",
+      "rumus": "Kalimat biasa + そうだ",
+      "inti_singkat": "Mengutip info dari orang lain. Bukan dugaan sendiri.",
+      "penjelasan": "明日雨が降るそうだ = katanya besok hujan. Beda dengan ～そうだ (dugaan penampilan) yang aturan bentuknya beda.",
+      "perbandingan": "そうだ (katanya, hearsay) vs ようだ (sepertinya, dugaan).",
+      "contoh": [
+        {
+          "jp": "田中さんは来ないそうだ。",
+          "kana": "たなかさんは こないそうだ。",
+          "id": "Katanya Tanaka tidak datang."
+        },
+        {
+          "jp": "あの店は安いそうだ。",
+          "kana": "あのみせは やすいそうだ。",
+          "id": "Katanya toko itu murah."
+        },
+        {
+          "jp": "彼はもう帰ったそうだ。",
+          "kana": "かれは もう かえったそうだ。",
+          "id": "Katanya dia sudah pulang."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar dua jenis そうだ",
+        "Lupa beda konjugasi"
+      ],
+      "level": "n4",
+      "unit": "minggu-3",
+      "tags": [
+        "kutipan"
+      ]
+    },
+    {
+      "id": "n4-bunpou-6",
+      "pola": "～ようにする",
+      "arti": "berusaha agar ~",
+      "rumus": "Verba-る + ようにする",
+      "inti_singkat": "Membiasakan / berusaha melakukan sesuatu.",
+      "penjelasan": "毎日運動するようにしている = berusaha olahraga tiap hari (kebiasaan yang diusahakan).",
+      "perbandingan": "ようにする (usaha/kebiasaan) vs ようになる (menjadi bisa).",
+      "contoh": [
+        {
+          "jp": "毎日日本語を話すようにしています。",
+          "kana": "まいにち にほんごを はなすようにしています。",
+          "id": "Berusaha bicara bahasa Jepang tiap hari."
+        },
+        {
+          "jp": "忘れ物をしないようにする。",
+          "kana": "わすれものを しないようにする。",
+          "id": "Berusaha tidak ketinggalan barang."
+        },
+        {
+          "jp": "野菜を食べるようにしてください。",
+          "kana": "やさいを たべるようにしてください。",
+          "id": "Usahakan makan sayur."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar ようにする dan ようになる"
+      ],
+      "level": "n4",
+      "unit": "minggu-3",
+      "tags": [
+        "kebiasaan"
+      ]
+    },
+    {
+      "id": "n4-bunpou-7",
+      "pola": "～ようになる",
+      "arti": "menjadi ~ (perubahan kemampuan)",
+      "rumus": "Verba-る + ようになる",
+      "inti_singkat": "Dulu tidak bisa, sekarang bisa. Perubahan kemampuan/kebiasaan.",
+      "penjelasan": "漢字が読めるようになった = sekarang jadi bisa baca kanji (dulu belum).",
+      "perbandingan": "ようにする (berusaha) vs ようになる (akhirnya bisa). Pasangan.",
+      "contoh": [
+        {
+          "jp": "自転車に乗れるようになりました。",
+          "kana": "じてんしゃに のれるようになりました。",
+          "id": "Jadi bisa naik sepeda."
+        },
+        {
+          "jp": "日本語が話せるようになった。",
+          "kana": "にほんごが はなせるようになった。",
+          "id": "Jadi bisa bicara bahasa Jepang."
+        },
+        {
+          "jp": "早起きできるようになった。",
+          "kana": "はやおきできるようになった。",
+          "id": "Jadi bisa bangun pagi."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah pakai 可能形",
+        "Lupa になる"
+      ],
+      "level": "n4",
+      "unit": "minggu-4",
+      "tags": [
+        "perubahan"
+      ]
+    },
+    {
+      "id": "n4-bunpou-8",
+      "pola": "～ために",
+      "arti": "untuk, karena",
+      "rumus": "Verba-る / Noun の + ために",
+      "inti_singkat": "Tujuan atau alasan. Formal.",
+      "penjelasan": "日本語を勉強するために日本に来た = datang ke Jepang untuk belajar bahasa Jepang. Bisa juga alasan: 病気のために休んだ.",
+      "perbandingan": "ために (tujuan formal) vs ように (tujuan agar) — ために untuk aksi terkontrol, ように untuk yang tidak terkontrol.",
+      "contoh": [
+        {
+          "jp": "JLPTに合格するために勉強しています。",
+          "kana": "JLPTに ごうかくするために べんきょうしています。",
+          "id": "Belajar untuk lulus JLPT."
+        },
+        {
+          "jp": "健康のために運動する。",
+          "kana": "けんこうのために うんどうする。",
+          "id": "Olahraga untuk kesehatan."
+        },
+        {
+          "jp": "事故のために電車が遅れた。",
+          "kana": "じこのために でんしゃが おくれた。",
+          "id": "Kereta terlambat karena kecelakaan."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar ために dan ように"
+      ],
+      "level": "n4",
+      "unit": "minggu-4",
+      "tags": [
+        "tujuan"
+      ]
+    }
+  ],
+  "dokkai": [
+    {
+      "id": "n4-dokkai-1",
+      "judul": "Email ke teman",
+      "teks": "田中さんへ 久しぶりです。元気ですか。私は先月から大阪で働いています。仕事は忙しいですが、楽しいです。週末はよく京都へ行きます。京都はとてもきれいな町です。今度一緒に行きましょう。",
+      "terjemah_id": "Untuk Tanaka, lama tidak berjumpa. Apa kabar? Saya sejak bulan lalu bekerja di Osaka. Kerja sibuk tapi menyenangkan. Akhir pekan sering ke Kyoto. Kyoto kota yang sangat indah. Kapan-kapan ayo pergi bersama.",
+      "pertanyaan": [
+        {
+          "q": "Penulis bekerja di mana?",
+          "opsi": [
+            "Tokyo",
+            "Osaka",
+            "Kyoto",
+            "Nagoya"
+          ],
+          "jawaban": 1,
+          "penjelasan": "大阪で働いています."
+        },
+        {
+          "q": "Bagaimana pekerjaan penulis?",
+          "opsi": [
+            "Tidak sibuk dan membosankan",
+            "Sibuk tapi menyenangkan",
+            "Santai dan mudah",
+            "Belum bekerja"
+          ],
+          "jawaban": 1,
+          "penjelasan": "忙しいですが、楽しいです."
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    }
+  ],
+  "choukai": [
+    {
+      "id": "n4-choukai-1",
+      "judul": "Janji bertemu",
+      "naskah": "A: 明日何時に会いますか。 B: 10時はどうですか。 A: 10時はちょっと… 11時なら大丈夫です。 B: わかりました、11時に駅で会いましょう。",
+      "terjemah_id": "A: Besok jam berapa ketemu? B: Jam 10 bagaimana? A: Jam 10 agak... kalau jam 11 tidak apa-apa. B: Oke, ketemu jam 11 di stasiun.",
+      "pertanyaan": [
+        {
+          "q": "Jam berapa mereka akan bertemu?",
+          "opsi": [
+            "Jam 9",
+            "Jam 10",
+            "Jam 11",
+            "Jam 12"
+          ],
+          "jawaban": 2,
+          "penjelasan": "11時に駅で会いましょう."
+        }
+      ],
+      "level": "n4",
+      "unit": "minggu-4"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "n4-quiz-1",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Manakah yang benar untuk 'boleh masuk'?",
+      "opsi": [
+        "入らなければならない",
+        "入ってもいい",
+        "入ってはいけない",
+        "入ったほうがいい"
+      ],
+      "jawaban": "入ってもいい",
+      "penjelasan": "～てもいい = boleh.",
+      "tag": "bunpou",
+      "level": "n4",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n4-quiz-2",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Arti ～なければならない adalah?",
+      "opsi": [
+        "tidak boleh",
+        "boleh",
+        "harus",
+        "sebaiknya"
+      ],
+      "jawaban": "harus",
+      "penjelasan": "Kewajiban.",
+      "tag": "bunpou",
+      "level": "n4",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n4-quiz-3",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Pasangan 借りる (meminjam) adalah?",
+      "opsi": [
+        "返す",
+        "貸す",
+        "習う",
+        "働く"
+      ],
+      "jawaban": "貸す",
+      "penjelasan": "借りる=meminjam, 貸す=meminjamkan.",
+      "tag": "kotoba",
+      "level": "n4",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n4-quiz-4",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "'Jadi bisa baca kanji' bahasa Jepangnya?",
+      "opsi": [
+        "漢字を読めるようにする",
+        "漢字が読めるようになった",
+        "漢字を読むためにする",
+        "漢字を読んだほうがいい"
+      ],
+      "jawaban": "漢字が読めるようになった",
+      "penjelasan": "ようになった = perubahan menjadi bisa.",
+      "tag": "bunpou",
+      "level": "n4",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n4-quiz-5",
+      "tipe": "tebak_bacaan",
+      "pertanyaan": "Bacaan 働 dalam 働く?",
+      "opsi": [
+        "はたらく",
+        "はたらき",
+        "どう",
+        "きん"
+      ],
+      "jawaban": "はたらく",
+      "penjelasan": "働く = はたらく.",
+      "tag": "kanji",
+      "level": "n4",
+      "kategori": "kanji"
+    }
+  ]
+}

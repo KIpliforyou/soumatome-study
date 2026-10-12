@@ -1,0 +1,532 @@
+{
+  "kanji": [
+    {
+      "char": "議",
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [],
+      "arti_id": "diskusi",
+      "strokes": 20,
+      "contoh_kata": [
+        {
+          "kata": "会議",
+          "kana": "かいぎ",
+          "arti": "rapat"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "論",
+      "onyomi": [
+        "ロン"
+      ],
+      "kunyomi": [],
+      "arti_id": "argumen",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "議論",
+          "kana": "ぎろん",
+          "arti": "diskusi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "権",
+      "onyomi": [
+        "ケン",
+        "ゴン"
+      ],
+      "kunyomi": [],
+      "arti_id": "hak",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "権利",
+          "kana": "けんり",
+          "arti": "hak"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "利",
+      "onyomi": [
+        "リ"
+      ],
+      "kunyomi": [
+        "きく"
+      ],
+      "arti_id": "keuntungan",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "利用",
+          "kana": "りよう",
+          "arti": "pemanfaatan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "批",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [],
+      "arti_id": "kritik",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "批判",
+          "kana": "ひはん",
+          "arti": "kritik"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "判",
+      "onyomi": [
+        "ハン",
+        "バン"
+      ],
+      "kunyomi": [],
+      "arti_id": "penilaian",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "判断",
+          "kana": "はんだん",
+          "arti": "penilaian"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "断",
+      "onyomi": [
+        "ダン"
+      ],
+      "kunyomi": [
+        "ことわる"
+      ],
+      "arti_id": "memutus",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "判断",
+          "kana": "はんだん",
+          "arti": "penilaian"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "責",
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [
+        "せめる"
+      ],
+      "arti_id": "tanggung jawab",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "責任",
+          "kana": "せきにん",
+          "arti": "tanggung jawab"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "任",
+      "onyomi": [
+        "ニン"
+      ],
+      "kunyomi": [
+        "まかせる"
+      ],
+      "arti_id": "tugas",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "責任",
+          "kana": "せきにん",
+          "arti": "tanggung jawab"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "境",
+      "onyomi": [
+        "キョウ",
+        "ケイ"
+      ],
+      "kunyomi": [
+        "さかい"
+      ],
+      "arti_id": "batas",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "環境",
+          "kana": "かんきょう",
+          "arti": "lingkungan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "環",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [],
+      "arti_id": "lingkaran",
+      "strokes": 18,
+      "contoh_kata": [
+        {
+          "kata": "環境",
+          "kana": "かんきょう",
+          "arti": "lingkungan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "影",
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [
+        "かげ"
+      ],
+      "arti_id": "bayangan, pengaruh",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "影響",
+          "kana": "えいきょう",
+          "arti": "pengaruh"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "響",
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "ひびく"
+      ],
+      "arti_id": "bergema",
+      "strokes": 20,
+      "contoh_kata": [
+        {
+          "kata": "影響",
+          "kana": "えいきょう",
+          "arti": "pengaruh"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    }
+  ],
+  "kotoba": [
+    {
+      "id": "n2-kotoba-1",
+      "kanji": "議論する",
+      "kana": "ぎろんする",
+      "romaji": "giron suru",
+      "arti_id": "berdiskusi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "環境問題について議論した。",
+        "kana": "かんきょうもんだいについて ぎろんした。",
+        "id": "Berdiskusi tentang masalah lingkungan."
+      },
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n2-kotoba-2",
+      "kanji": "批判する",
+      "kana": "ひはんする",
+      "romaji": "hihan suru",
+      "arti_id": "mengkritik",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "政策を批判する。",
+        "kana": "せいさくを ひはんする。",
+        "id": "Mengkritik kebijakan."
+      },
+      "level": "n2",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n2-kotoba-3",
+      "kanji": "判断する",
+      "kana": "はんだんする",
+      "romaji": "handan suru",
+      "arti_id": "menilai, memutuskan",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "状況を判断する必要がある。",
+        "kana": "じょうきょうを はんだんする ひつようがある。",
+        "id": "Perlu menilai situasi."
+      },
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n2-kotoba-4",
+      "kanji": "責任",
+      "kana": "せきにん",
+      "romaji": "sekinin",
+      "arti_id": "tanggung jawab",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "責任を持って行動する。",
+        "kana": "せきにんを もって こうどうする。",
+        "id": "Bertindak dengan tanggung jawab."
+      },
+      "level": "n2",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n2-kotoba-5",
+      "kanji": "影響する",
+      "kana": "えいきょうする",
+      "romaji": "eikyou suru",
+      "arti_id": "mempengaruhi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "天候が収穫に影響する。",
+        "kana": "てんこうが しゅうかくに えいきょうする。",
+        "id": "Cuaca mempengaruhi panen."
+      },
+      "level": "n2",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n2-kotoba-6",
+      "kana": "むしろ",
+      "romaji": "mushiro",
+      "arti_id": "malahan, lebih baik",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "むしろ早めに行ったほうがいい。",
+        "kana": "むしろ はやめに いったほうがいい。",
+        "id": "Malahan sebaiknya pergi lebih awal."
+      },
+      "level": "n2",
+      "unit": "minggu-3"
+    }
+  ],
+  "bunpou": [
+    {
+      "id": "n2-bunpou-1",
+      "pola": "～にほかならない",
+      "arti": "tidak lain adalah ~",
+      "rumus": "Noun + にほかならない",
+      "inti_singkat": "Penegasan: 'itu tak lain adalah ...'",
+      "penjelasan": "これは努力の結果にほかならない = ini tak lain adalah hasil usaha.",
+      "perbandingan": "にほかならない (penegasan kuat) vs にすぎない (hanya).",
+      "contoh": [
+        {
+          "jp": "成功は努力にほかならない。",
+          "kana": "せいこうは どりょくにほかならない。",
+          "id": "Kesuksesan tak lain adalah usaha."
+        },
+        {
+          "jp": "これは偶然にほかならない。",
+          "kana": "これは ぐうぜんにほかならない。",
+          "id": "Ini tak lain adalah kebetulan."
+        },
+        {
+          "jp": "彼の発言は冗談にほかならない。",
+          "kana": "かれの はつげんは じょうだんにほかならない。",
+          "id": "Ucapannya tak lain adalah lelucon."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa ほか",
+        "Salah partikel に"
+      ],
+      "level": "n2",
+      "unit": "minggu-1",
+      "tags": [
+        "penegasan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-2",
+      "pola": "～を余儀なくされる",
+      "arti": "terpaksa",
+      "rumus": "Noun + を余儀なくされる",
+      "inti_singkat": "Terpaksa karena keadaan.",
+      "penjelasan": "台風のため中止を余儀なくされた = terpaksa dibatalkan karena topan.",
+      "perbandingan": "余儀なくされる (pasif, terpaksa) vs ざるを得ない (tidak bisa tidak).",
+      "contoh": [
+        {
+          "jp": "予算不足で計画変更を余儀なくされた。",
+          "kana": "よさんぶそくで けいかくへんこうを よぎなくされた。",
+          "id": "Terpaksa mengubah rencana karena kekurangan anggaran."
+        },
+        {
+          "jp": "事故で延迟を余儀なくされた。",
+          "kana": "じこで ちえんを よぎなくされた。",
+          "id": "Terpaksa terlambat karena kecelakaan."
+        },
+        {
+          "jp": "人員不足で残業を余儀なくされた。",
+          "kana": "じんいんぶそくで ざんぎょうを よぎなくされた。",
+          "id": "Terpaksa lembur karena kekurangan personel."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah baca よぎなく",
+        "Lupa を"
+      ],
+      "level": "n2",
+      "unit": "minggu-2",
+      "tags": [
+        "pasif"
+      ]
+    },
+    {
+      "id": "n2-bunpou-3",
+      "pola": "～かねない",
+      "arti": "bisa saja ~ (risiko)",
+      "rumus": "Verba-ます stem + かねない",
+      "inti_singkat": "Peringatan: bisa terjadi hal buruk.",
+      "penjelasan": "無理をすると体を壊しかねない = kalau memaksakan diri bisa merusak kesehatan.",
+      "perbandingan": "かねない (risiko negatif) vs かねる (sulit/ragu).",
+      "contoh": [
+        {
+          "jp": "油断すると失敗しかねない。",
+          "kana": "ゆだんすると しっぱいしかねない。",
+          "id": "Kalau lengah bisa saja gagal."
+        },
+        {
+          "jp": "放置すれば悪化しかねない。",
+          "kana": "ほうちすれば あっかしかねない。",
+          "id": "Kalau dibiarkan bisa memburuk."
+        },
+        {
+          "jp": "軽く見ると痛い目に遭いかねない。",
+          "kana": "かるくみると いたいめに あいかねない。",
+          "id": "Kalau meremehkan bisa celaka."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar かねない dan かねる"
+      ],
+      "level": "n2",
+      "unit": "minggu-3",
+      "tags": [
+        "risiko"
+      ]
+    }
+  ],
+  "dokkai": [
+    {
+      "id": "n2-dokkai-1",
+      "judul": "Etika kerja",
+      "teks": "日本では、責任感が非常に重視される。失敗したときに言い訳をするのではなく、まず謝罪し、原因を分析して再発防止に努める姿勢が求められる。この姿勢は、単なるマナーにほかならないのではなく、信頼を築くための基盤である。",
+      "terjemah_id": "Di Jepang, rasa tanggung jawab sangat dihargai. Ketika gagal, bukan mencari alasan, tapi minta maaf, analisis penyebab, dan cegah terulang. Sikap ini bukan sekadar etika, tapi fondasi membangun kepercayaan.",
+      "pertanyaan": [
+        {
+          "q": "Apa yang ditekankan di Jepang menurut teks?",
+          "opsi": [
+            "Mencari alasan",
+            "Tanggung jawab dan pencegahan ulang",
+            "Menghindari permintaan maaf",
+            "Mengandalkan orang lain"
+          ],
+          "jawaban": 1,
+          "penjelasan": "責任感, 謝罪, 再発防止, 信頼."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    }
+  ],
+  "choukai": [
+    {
+      "id": "n2-choukai-1",
+      "judul": "Presentasi",
+      "naskah": "司会：次の発表は環境への影響についてです。 発表者：はい、今回の調査で、プラスチックごみが海の生態系に深刻な影響を与えていることがわかりました。放置すれば回復しかねない状況です。",
+      "terjemah_id": "MC: Presentasi berikutnya tentang pengaruh terhadap lingkungan. Presenter: Survei kali ini menunjukkan sampah plastik berdampak serius pada ekosistem laut. Jika dibiarkan bisa tidak bisa pulih.",
+      "pertanyaan": [
+        {
+          "q": "Apa risikonya menurut presenter?",
+          "opsi": [
+            "Sampah akan hilang sendiri",
+            "Ekosistem bisa tidak pulih jika dibiarkan",
+            "Plastik tidak berbahaya",
+            "Tidak ada dampak"
+          ],
+          "jawaban": 1,
+          "penjelasan": "放置すれば回復しかねない."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-3"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "n2-quiz-1",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～かねない artinya?",
+      "opsi": [
+        "tidak bisa",
+        "bisa saja (risiko buruk)",
+        "pasti",
+        "sudah selesai"
+      ],
+      "jawaban": "bisa saja (risiko buruk)",
+      "penjelasan": "Peringatan risiko.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-2",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Mana yang berarti 'terpaksa'?",
+      "opsi": [
+        "にほかならない",
+        "を余儀なくされる",
+        "かねない",
+        "に対して"
+      ],
+      "jawaban": "を余儀なくされる",
+      "penjelasan": "Terpaksa karena keadaan.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    }
+  ]
+}

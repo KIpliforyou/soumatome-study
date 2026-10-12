@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root { --background: #ffffff; --foreground: #0f172a; --card: #ffffff; --muted: #f1f5f9; --border: #e2e8f0; --primary: #ef4444; --accent: #f59e0b; }
+.dark { --background: #0a0a0f; --foreground: #f1f5f9; --card: #1a1a24; --muted: #1e293b; --border: #334155; }
+* { border-color: var(--border); }
+body { background: var(--background); color: var(--foreground); font-family: Inter, 'Noto Sans JP', system-ui, sans-serif; }

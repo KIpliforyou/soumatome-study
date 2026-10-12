@@ -1,0 +1,626 @@
+{
+  "kanji": [
+    {
+      "char": "経",
+      "onyomi": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kunyomi": [
+        "へる"
+      ],
+      "arti_id": "lewat, pengalaman",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "経験",
+          "kana": "けいけん",
+          "arti": "pengalaman"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "験",
+      "onyomi": [
+        "ケン",
+        "ゲン"
+      ],
+      "kunyomi": [],
+      "arti_id": "uji",
+      "strokes": 18,
+      "contoh_kata": [
+        {
+          "kata": "経験",
+          "kana": "けいけん",
+          "arti": "pengalaman"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "困",
+      "onyomi": [
+        "コン"
+      ],
+      "kunyomi": [
+        "こまる"
+      ],
+      "arti_id": "kesulitan",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "困る",
+          "kana": "こまる",
+          "arti": "kesulitan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "相",
+      "onyomi": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "あい"
+      ],
+      "arti_id": "saling",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "相談",
+          "kana": "そうだん",
+          "arti": "konsultasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "談",
+      "onyomi": [
+        "ダン"
+      ],
+      "kunyomi": [],
+      "arti_id": "diskusi",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "相談",
+          "kana": "そうだん",
+          "arti": "konsultasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "char": "予",
+      "onyomi": [
+        "ヨ"
+      ],
+      "kunyomi": [
+        "あらかじめ"
+      ],
+      "arti_id": "sebelumnya",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "予定",
+          "kana": "よてい",
+          "arti": "rencana"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "定",
+      "onyomi": [
+        "テイ",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "さだめる"
+      ],
+      "arti_id": "menetapkan",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "予定",
+          "kana": "よてい",
+          "arti": "rencana"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "確",
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "たしか"
+      ],
+      "arti_id": "pasti",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "確かめる",
+          "kana": "たしかめる",
+          "arti": "memastikan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "認",
+      "onyomi": [
+        "ニン"
+      ],
+      "kunyomi": [
+        "みとめる"
+      ],
+      "arti_id": "mengakui",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "確認",
+          "kana": "かくにん",
+          "arti": "konfirmasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "比",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "くらべる"
+      ],
+      "arti_id": "membandingkan",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "比べる",
+          "kana": "くらべる",
+          "arti": "membandingkan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "char": "較",
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [],
+      "arti_id": "membandingkan",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "比較",
+          "kana": "ひかく",
+          "arti": "perbandingan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "増",
+      "onyomi": [
+        "ゾウ"
+      ],
+      "kunyomi": [
+        "ふえる",
+        "ます"
+      ],
+      "arti_id": "bertambah",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "増える",
+          "kana": "ふえる",
+          "arti": "bertambah"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "減",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "へる"
+      ],
+      "arti_id": "berkurang",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "減る",
+          "kana": "へる",
+          "arti": "berkurang"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "得",
+      "onyomi": [
+        "トク"
+      ],
+      "kunyomi": [
+        "える"
+      ],
+      "arti_id": "mendapat",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "得意",
+          "kana": "とくい",
+          "arti": "keahlian"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "char": "失",
+      "onyomi": [
+        "シツ"
+      ],
+      "kunyomi": [
+        "うしなう"
+      ],
+      "arti_id": "kehilangan",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "失敗",
+          "kana": "しっぱい",
+          "arti": "kegagalan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    }
+  ],
+  "kotoba": [
+    {
+      "id": "n3-kotoba-1",
+      "kanji": "経験する",
+      "kana": "けいけんする",
+      "romaji": "keiken suru",
+      "arti_id": "mengalami",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "いろいろな経験をした。",
+        "kana": "いろいろな けいけんを した。",
+        "id": "Mengalami berbagai pengalaman."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-2",
+      "kanji": "困る",
+      "kana": "こまる",
+      "romaji": "komaru",
+      "arti_id": "kesulitan, bingung",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "道に迷って困っています。",
+        "kana": "みちに まよって こまっています。",
+        "id": "Tersesat dan bingung."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-3",
+      "kanji": "相談する",
+      "kana": "そうだんする",
+      "romaji": "soudan suru",
+      "arti_id": "berkonsultasi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "先生に相談したほうがいい。",
+        "kana": "せんせいに そうだんしたほうがいい。",
+        "id": "Sebaiknya konsultasi ke guru."
+      },
+      "level": "n3",
+      "unit": "minggu-1"
+    },
+    {
+      "id": "n3-kotoba-4",
+      "kanji": "確かめる",
+      "kana": "たしかめる",
+      "romaji": "tashikameru",
+      "arti_id": "memastikan",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "時間を確かめてください。",
+        "kana": "じかんを たしかめてください。",
+        "id": "Tolong pastikan waktunya."
+      },
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n3-kotoba-5",
+      "kanji": "比べる",
+      "kana": "くらべる",
+      "romaji": "kuraberu",
+      "arti_id": "membandingkan",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "二つの案を比べる。",
+        "kana": "ふたつの あんを くらべる。",
+        "id": "Membandingkan dua rencana."
+      },
+      "level": "n3",
+      "unit": "minggu-2"
+    },
+    {
+      "id": "n3-kotoba-6",
+      "kanji": "増える",
+      "kana": "ふえる",
+      "romaji": "fueru",
+      "arti_id": "bertambah",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "人口が増えている。",
+        "kana": "じんこうが ふえている。",
+        "id": "Populasi bertambah."
+      },
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n3-kotoba-7",
+      "kanji": "減る",
+      "kana": "へる",
+      "romaji": "heru",
+      "arti_id": "berkurang",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "体重が減った。",
+        "kana": "たいじゅうが へった。",
+        "id": "Berat badan berkurang."
+      },
+      "level": "n3",
+      "unit": "minggu-3"
+    },
+    {
+      "id": "n3-kotoba-8",
+      "kana": "なるべく",
+      "romaji": "narubeku",
+      "arti_id": "sebisa mungkin",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "なるべく早く来てください。",
+        "kana": "なるべく はやく きてください。",
+        "id": "Datang secepat mungkin."
+      },
+      "level": "n3",
+      "unit": "minggu-3"
+    }
+  ],
+  "bunpou": [
+    {
+      "id": "n3-bunpou-1",
+      "pola": "～わけではない",
+      "arti": "bukan berarti ~",
+      "rumus": "Kalimat biasa + わけではない",
+      "inti_singkat": "Meluruskan kesalahpahaman: 'bukan berarti ...'",
+      "penjelasan": "嫌いなわけではない、ただ忙しいだけだ = bukan berarti benci, hanya saja sibuk. Sering dipakai untuk menghaluskan penolakan.",
+      "perbandingan": "わけではない (membantah) vs はずがない (tidak mungkin).",
+      "contoh": [
+        {
+          "jp": "お金がないわけではないが、節約したい。",
+          "kana": "おかねが ないわけではないが、せつやくしたい。",
+          "id": "Bukan berarti tidak ada uang, tapi ingin berhemat."
+        },
+        {
+          "jp": "行きたくないわけではない。",
+          "kana": "いきたくないわけではない。",
+          "id": "Bukan berarti tidak mau pergi."
+        },
+        {
+          "jp": "できないわけではないが、時間がかかる。",
+          "kana": "できないわけではないが、じかんがかかる。",
+          "id": "Bukan tidak bisa, tapi butuh waktu."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa わけ",
+        "Salah level kesopanan わけではありません"
+      ],
+      "level": "n3",
+      "unit": "minggu-1",
+      "tags": [
+        "nuansa"
+      ]
+    },
+    {
+      "id": "n3-bunpou-2",
+      "pola": "～に対して",
+      "arti": "terhadap",
+      "rumus": "Noun + に対して",
+      "inti_singkat": "Menunjukkan target sikap/aksi.",
+      "penjelasan": "お客様に対して丁寧に話す = berbicara sopan terhadap pelanggan.",
+      "perbandingan": "に対して vs について (tentang). に対して= target, について= topik.",
+      "contoh": [
+        {
+          "jp": "目上の人に対して敬語を使う。",
+          "kana": "めうえのひとにたいして けいごを つかう。",
+          "id": "Memakai keigo terhadap atasan."
+        },
+        {
+          "jp": "質問に対して答える。",
+          "kana": "しつもんにたいして こたえる。",
+          "id": "Menjawab terhadap pertanyaan."
+        },
+        {
+          "jp": "彼に対して怒っている。",
+          "kana": "かれにたいして おこっている。",
+          "id": "Marah kepadanya."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar に対して dan について"
+      ],
+      "level": "n3",
+      "unit": "minggu-2",
+      "tags": [
+        "partikel"
+      ]
+    },
+    {
+      "id": "n3-bunpou-3",
+      "pola": "～によって",
+      "arti": "tergantung, oleh, karena",
+      "rumus": "Noun + によって",
+      "inti_singkat": "Banyak arti: tergantung, disebabkan, dilakukan oleh.",
+      "penjelasan": "人によって意見が違う = pendapat berbeda tergantung orang. Bisa juga pasif: 先生によって書かれた.",
+      "perbandingan": "によって vs により (formal). Sama, により lebih tulisan.",
+      "contoh": [
+        {
+          "jp": "結果は努力によって変わる。",
+          "kana": "けっかは どりょくによって かわる。",
+          "id": "Hasil berubah tergantung usaha."
+        },
+        {
+          "jp": "台風によって電車が止まった。",
+          "kana": "たいふうによって でんしゃが とまった。",
+          "id": "Kereta berhenti karena topan."
+        },
+        {
+          "jp": "この法律は国によって決められた。",
+          "kana": "このほうりつは くにによって きめられた。",
+          "id": "Undang-undang ini ditetapkan oleh negara."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa banyak arti",
+        "Salah partikel"
+      ],
+      "level": "n3",
+      "unit": "minggu-3",
+      "tags": [
+        "partikel"
+      ]
+    }
+  ],
+  "dokkai": [
+    {
+      "id": "n3-dokkai-1",
+      "judul": "Kerja paruh waktu",
+      "teks": "私は大学で勉強しながら、カフェでアルバイトをしています。最初は失敗ばかりでしたが、最近は仕事に慣れてきました。お客様と話すことが楽しくなり、日本語も上手になってきました。",
+      "terjemah_id": "Sambil kuliah, saya kerja paruh waktu di kafe. Awalnya banyak gagal, tapi belakangan mulai terbiasa. Berbicara dengan pelanggan jadi menyenangkan, bahasa Jepang juga jadi lebih baik.",
+      "pertanyaan": [
+        {
+          "q": "Apa yang penulis rasakan sekarang?",
+          "opsi": [
+            "Masih sering gagal",
+            "Sudah terbiasa dan menikmati",
+            "Ingin berhenti",
+            "Tidak suka pelanggan"
+          ],
+          "jawaban": 1,
+          "penjelasan": "慣れてきました, 楽しくなり, 上手になってきました."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    }
+  ],
+  "choukai": [
+    {
+      "id": "n3-choukai-1",
+      "judul": "Rapat",
+      "naskah": "A: 会議は何時からですか。 B: 3時からですが、資料はもう準備しましたか。 A: はい、昨日確認しました。 B: わかりました、では3時に会議室で。",
+      "terjemah_id": "A: Rapat jam berapa? B: Dari jam 3, apakah materi sudah disiapkan? A: Ya, sudah cek kemarin. B: Oke, jam 3 di ruang rapat.",
+      "pertanyaan": [
+        {
+          "q": "Jam berapa rapat?",
+          "opsi": [
+            "Jam 2",
+            "Jam 3",
+            "Jam 4",
+            "Belum diputuskan"
+          ],
+          "jawaban": 1,
+          "penjelasan": "3時から."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-3"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "n3-quiz-1",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～わけではない artinya?",
+      "opsi": [
+        "pasti",
+        "seharusnya",
+        "bukan berarti",
+        "tidak mungkin"
+      ],
+      "jawaban": "bukan berarti",
+      "penjelasan": "Meluruskan kesalahpahaman.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-2",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Manakah yang berarti 'tergantung'?",
+      "opsi": [
+        "に対して",
+        "によって",
+        "について",
+        "のために"
+      ],
+      "jawaban": "によって",
+      "penjelasan": "～によって = tergantung / oleh.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-3",
+      "tipe": "tebak_arti",
+      "pertanyaan": "Arti 困る?",
+      "opsi": [
+        "senang",
+        "kesulitan/bingung",
+        "marah",
+        "lelah"
+      ],
+      "jawaban": "kesulitan/bingung",
+      "penjelasan": "困る = komaru.",
+      "tag": "kotoba",
+      "level": "n3",
+      "kategori": "kotoba"
+    }
+  ]
+}
