@@ -298,6 +298,401 @@
       ],
       "level": "n3",
       "unit": "minggu-3"
+    },
+    {
+      "char": "付",
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [
+        "つける"
+      ],
+      "arti_id": "menempel",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "受付",
+          "kana": "うけつけ",
+          "arti": "resepsionis"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "伝",
+      "onyomi": [
+        "デン"
+      ],
+      "kunyomi": [
+        "つたえる"
+      ],
+      "arti_id": "menyampaikan",
+      "strokes": 6,
+      "contoh_kata": [
+        {
+          "kata": "伝える",
+          "kana": "つたえる",
+          "arti": "menyampaikan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "報",
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "laporan",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "報告",
+          "kana": "ほうこく",
+          "arti": "laporan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "情",
+      "onyomi": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "なさけ"
+      ],
+      "arti_id": "perasaan",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "情報",
+          "kana": "じょうほう",
+          "arti": "informasi"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "案",
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [],
+      "arti_id": "rencana",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "案内",
+          "kana": "あんない",
+          "arti": "pemandu"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "内",
+      "onyomi": [
+        "ナイ",
+        "ダイ"
+      ],
+      "kunyomi": [
+        "うち"
+      ],
+      "arti_id": "dalam",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "案内",
+          "kana": "あんない",
+          "arti": "pemandu"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "調",
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "しらべる"
+      ],
+      "arti_id": "menyelidiki",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "調査",
+          "kana": "ちょうさ",
+          "arti": "survei"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "査",
+      "onyomi": [
+        "サ"
+      ],
+      "kunyomi": [],
+      "arti_id": "memeriksa",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "調査",
+          "kana": "ちょうさ",
+          "arti": "survei"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "決",
+      "onyomi": [
+        "ケツ"
+      ],
+      "kunyomi": [
+        "きめる"
+      ],
+      "arti_id": "memutuskan",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "決定",
+          "kana": "けってい",
+          "arti": "keputusan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "続",
+      "onyomi": [
+        "ゾク"
+      ],
+      "kunyomi": [
+        "つづく"
+      ],
+      "arti_id": "berlanjut",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "続く",
+          "kana": "つづく",
+          "arti": "berlanjut"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "約",
+      "onyomi": [
+        "ヤク"
+      ],
+      "kunyomi": [],
+      "arti_id": "janji",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "約束",
+          "kana": "やくそく",
+          "arti": "janji"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "束",
+      "onyomi": [
+        "ソク"
+      ],
+      "kunyomi": [
+        "たば"
+      ],
+      "arti_id": "ikat",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "約束",
+          "kana": "やくそく",
+          "arti": "janji"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "配",
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": [
+        "くばる"
+      ],
+      "arti_id": "membagikan",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "配達",
+          "kana": "はいたつ",
+          "arti": "pengantaran"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "達",
+      "onyomi": [
+        "タツ",
+        "ダチ"
+      ],
+      "kunyomi": [],
+      "arti_id": "mencapai",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "配達",
+          "kana": "はいたつ",
+          "arti": "pengantaran"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "直",
+      "onyomi": [
+        "チョク",
+        "ジキ"
+      ],
+      "kunyomi": [
+        "なおす",
+        "ただちに"
+      ],
+      "arti_id": "langsung, memperbaiki",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "直接",
+          "kana": "ちょくせつ",
+          "arti": "langsung"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "接",
+      "onyomi": [
+        "セツ"
+      ],
+      "kunyomi": [
+        "つぐ"
+      ],
+      "arti_id": "menyambung",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "直接",
+          "kana": "ちょくせつ",
+          "arti": "langsung"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "連",
+      "onyomi": [
+        "レン"
+      ],
+      "kunyomi": [
+        "つらなる"
+      ],
+      "arti_id": "berhubungan",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "連絡",
+          "kana": "れんらく",
+          "arti": "kontak"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "絡",
+      "onyomi": [
+        "ラク"
+      ],
+      "kunyomi": [
+        "からむ"
+      ],
+      "arti_id": "terjalin",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "連絡",
+          "kana": "れんらく",
+          "arti": "kontak"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "遅",
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "おくれる"
+      ],
+      "arti_id": "terlambat",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "遅刻",
+          "kana": "ちこく",
+          "arti": "terlambat"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "速",
+      "onyomi": [
+        "ソク"
+      ],
+      "kunyomi": [
+        "はやい"
+      ],
+      "arti_id": "cepat",
+      "strokes": 10,
+      "contoh_kata": [
+        {
+          "kata": "速度",
+          "kana": "そくど",
+          "arti": "kecepatan"
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
     }
   ],
   "kotoba": [
@@ -419,6 +814,186 @@
       },
       "level": "n3",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n3-kotoba-9",
+      "kanji": "間に合う",
+      "kana": "まにあう",
+      "romaji": "mania u",
+      "arti_id": "keburu, tepat waktu",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "電車に間に合った。",
+        "kana": "でんしゃに まにあった。",
+        "id": "Keburu kereta."
+      },
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n3-kotoba-10",
+      "kanji": "遅れる",
+      "kana": "おくれる",
+      "romaji": "okureru",
+      "arti_id": "terlambat",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "会議に遅れました。",
+        "kana": "かいぎに おくれました。",
+        "id": "Terlambat ke rapat."
+      },
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n3-kotoba-11",
+      "kanji": "届く",
+      "kana": "とどく",
+      "romaji": "todoku",
+      "arti_id": "sampai, terkirim",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "荷物が届きました。",
+        "kana": "にもつが とどきました。",
+        "id": "Paket sudah sampai."
+      },
+      "level": "n3",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n3-kotoba-12",
+      "kanji": "直す",
+      "kana": "なおす",
+      "romaji": "naosu",
+      "arti_id": "memperbaiki",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "自転車を直した。",
+        "kana": "じてんしゃを なおした。",
+        "id": "Memperbaiki sepeda."
+      },
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n3-kotoba-13",
+      "kanji": "手伝う",
+      "kana": "てつだう",
+      "romaji": "tetsudau",
+      "arti_id": "membantu",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "引っ越しを手伝ってくれた。",
+        "kana": "ひっこしを てつだってくれた。",
+        "id": "Membantu pindahan."
+      },
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n3-kotoba-14",
+      "kanji": "誘う",
+      "kana": "さそう",
+      "romaji": "sasou",
+      "arti_id": "mengajak",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "友達を食事に誘った。",
+        "kana": "ともだちを しょくじに さそった。",
+        "id": "Mengajak teman makan."
+      },
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n3-kotoba-15",
+      "kanji": "断る",
+      "kana": "ことわる",
+      "romaji": "kotowaru",
+      "arti_id": "menolak",
+      "kelas_kata": "verba godan",
+      "contoh_kalimat": {
+        "jp": "誘いを断った。",
+        "kana": "さそいを ことわった。",
+        "id": "Menolak ajakan."
+      },
+      "level": "n3",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n3-kotoba-16",
+      "kanji": "伝える",
+      "kana": "つたえる",
+      "romaji": "tsutaeru",
+      "arti_id": "menyampaikan",
+      "kelas_kata": "verba ichidan",
+      "contoh_kalimat": {
+        "jp": "先生に伝えてください。",
+        "kana": "せんせいに つたえてください。",
+        "id": "Tolong sampaikan ke guru."
+      },
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-kotoba-17",
+      "kanji": "報告する",
+      "kana": "ほうこくする",
+      "romaji": "houkoku suru",
+      "arti_id": "melapor",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "結果を報告します。",
+        "kana": "けっかを ほうこくします。",
+        "id": "Melaporkan hasil."
+      },
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-kotoba-18",
+      "kanji": "調査する",
+      "kana": "ちょうさする",
+      "romaji": "chousa suru",
+      "arti_id": "menyelidiki",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "原因を調査した。",
+        "kana": "げんいんを ちょうさした。",
+        "id": "Menyelidiki penyebab."
+      },
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-kotoba-19",
+      "kanji": "配達する",
+      "kana": "はいたつする",
+      "romaji": "haitatsu suru",
+      "arti_id": "mengantar",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "荷物を配達する。",
+        "kana": "にもつを はいたつする。",
+        "id": "Mengantar paket."
+      },
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-kotoba-20",
+      "kanji": "連絡する",
+      "kana": "れんらくする",
+      "romaji": "renraku suru",
+      "arti_id": "menghubungi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "後で連絡します。",
+        "kana": "あとで れんらくします。",
+        "id": "Nanti saya hubungi."
+      },
+      "level": "n3",
+      "unit": "minggu-6"
     }
   ],
   "bunpou": [
@@ -525,6 +1100,212 @@
       "tags": [
         "partikel"
       ]
+    },
+    {
+      "id": "n3-bunpou-4",
+      "pola": "～わけにはいかない",
+      "arti": "tidak bisa (alasan moral/sosial)",
+      "rumus": "Verba-る + わけにはいかない",
+      "inti_singkat": "Ada alasan kuat tidak bisa melakukan, bukan tidak mampu fisik.",
+      "penjelasan": "約束したから、行かないわけにはいかない = karena sudah janji, tidak bisa tidak pergi. Beda dengan ことができない yang murni tidak bisa.",
+      "perbandingan": "わけにはいかない (tidak boleh secara moral) vs ことができない (tidak mampu).",
+      "contoh": [
+        {
+          "jp": "みんなが頑張っているので、休むわけにはいかない。",
+          "kana": "みんなが がんばっているので、やすむわけにはいかない。",
+          "id": "Semua berusaha, jadi tidak bisa istirahat."
+        },
+        {
+          "jp": "お金がないので、買うわけにはいかない。",
+          "kana": "おかねがないので、かうわけにはいかない。",
+          "id": "Tidak ada uang, jadi tidak bisa membeli."
+        },
+        {
+          "jp": "秘密だから、言わないわけにはいかない。",
+          "kana": "ひみつだから、いわないわけにはいかない。",
+          "id": "Karena rahasia, mau tidak mau harus diam (konteks)."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk る",
+        "Tertukar わけではない"
+      ],
+      "level": "n3",
+      "unit": "minggu-4",
+      "tags": [
+        "nuansa"
+      ]
+    },
+    {
+      "id": "n3-bunpou-5",
+      "pola": "～はずだ",
+      "arti": "seharusnya, pasti",
+      "rumus": "Kalimat biasa + はずだ",
+      "inti_singkat": "Kesimpulan logis: pasti begitu karena alasan.",
+      "penjelasan": "彼は来るはずだ = dia pasti datang (karena sudah janji). Negatif はずがない = pasti tidak.",
+      "perbandingan": "はずだ (kesimpulan logis) vs べきだ (seharusnya secara moral).",
+      "contoh": [
+        {
+          "jp": "彼は知っているはずだ。",
+          "kana": "かれは しっているはずだ。",
+          "id": "Dia pasti tahu."
+        },
+        {
+          "jp": "明日は晴れるはずだ。",
+          "kana": "あしたは はれるはずだ。",
+          "id": "Besok seharusnya cerah."
+        },
+        {
+          "jp": "そんなことはあるはずがない。",
+          "kana": "そんなことは あるはずがない。",
+          "id": "Pasti tidak ada hal seperti itu."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa はず vs はずが"
+      ],
+      "level": "n3",
+      "unit": "minggu-4",
+      "tags": [
+        "dugaan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-6",
+      "pola": "～べきだ",
+      "arti": "seharusnya",
+      "rumus": "Verba-る + べきだ",
+      "inti_singkat": "Kewajiban moral/saran kuat.",
+      "penjelasan": "もっと勉強すべきだ = seharusnya lebih banyak belajar. Lebih kuat dari たほうがいい.",
+      "perbandingan": "べきだ (kewajiban moral) vs たほうがいい (saran).",
+      "contoh": [
+        {
+          "jp": "約束は守るべきだ。",
+          "kana": "やくそくは まもるべきだ。",
+          "id": "Janji seharusnya ditepati."
+        },
+        {
+          "jp": "早く寝るべきだ。",
+          "kana": "はやく ねるべきだ。",
+          "id": "Seharusnya tidur cepat."
+        },
+        {
+          "jp": "自分で調べるべきだ。",
+          "kana": "じぶんで しらべるべきだ。",
+          "id": "Seharusnya cari sendiri."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk る",
+        "Lupa べき vs べし klasik"
+      ],
+      "level": "n3",
+      "unit": "minggu-5",
+      "tags": [
+        "kewajiban"
+      ]
+    },
+    {
+      "id": "n3-bunpou-7",
+      "pola": "～うちに",
+      "arti": "selagi, sebelum",
+      "rumus": "Verba-る/ている + うちに",
+      "inti_singkat": "Mumpung masih dalam keadaan itu, lakukan.",
+      "penjelasan": "若いうちにいろいろ経験したほうがいい = mumpung muda, sebaiknya banyak pengalaman.",
+      "perbandingan": "うちに (selagi) vs あいだに (selama) — うちに ada nuansa mumpung.",
+      "contoh": [
+        {
+          "jp": "暗くならないうちに帰ろう。",
+          "kana": "くらくならないうちに かえろう。",
+          "id": "Pulang selagi belum gelap."
+        },
+        {
+          "jp": "忘れないうちに書いておく。",
+          "kana": "わすれないうちに かいておく。",
+          "id": "Catat selagi belum lupa."
+        },
+        {
+          "jp": "子供が寝ているうちに掃除する。",
+          "kana": "こどもが ねているうちに そうじする。",
+          "id": "Bersih-bersih selagi anak tidur."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar うちに dan うちは"
+      ],
+      "level": "n3",
+      "unit": "minggu-5",
+      "tags": [
+        "waktu"
+      ]
+    },
+    {
+      "id": "n3-bunpou-8",
+      "pola": "～ことになる",
+      "arti": "diputuskan bahwa ~ (hasil)",
+      "rumus": "Verba-る + ことになる",
+      "inti_singkat": "Keputusan/hasil di luar kehendak sendiri.",
+      "penjelasan": "来月転勤することになった = diputuskan pindah tugas bulan depan (bukan keinginan sendiri).",
+      "perbandingan": "ことになる (hasil/keputusan eksternal) vs ことにする (memutuskan sendiri).",
+      "contoh": [
+        {
+          "jp": "来週から新宿で働くことになった。",
+          "kana": "らいしゅうから しんじゅくで はたらくことになった。",
+          "id": "Diputuskan bekerja di Shinjuku mulai minggu depan."
+        },
+        {
+          "jp": "会議は中止することになった。",
+          "kana": "かいぎは ちゅうしすることになった。",
+          "id": "Rapat diputuskan dibatalkan."
+        },
+        {
+          "jp": "日本語でレポートを書くことになっている。",
+          "kana": "にほんごで レポートを かくことになっている。",
+          "id": "Sudah diputuskan menulis laporan dalam bahasa Jepang."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar ことになる dan ことにする"
+      ],
+      "level": "n3",
+      "unit": "minggu-6",
+      "tags": [
+        "keputusan"
+      ]
+    },
+    {
+      "id": "n3-bunpou-9",
+      "pola": "～とおりに",
+      "arti": "sesuai dengan ~",
+      "rumus": "Verba-た + とおりに / Noun + どおりに",
+      "inti_singkat": "Melakukan persis seperti yang dikatakan/ditulis.",
+      "penjelasan": "説明したとおりにやってください = lakukan sesuai yang dijelaskan.",
+      "perbandingan": "とおりに (sesuai) vs ように (agar) — beda tujuan.",
+      "contoh": [
+        {
+          "jp": "言ったとおりに書く。",
+          "kana": "いったとおりに かく。",
+          "id": "Menulis sesuai yang dikatakan."
+        },
+        {
+          "jp": "計画どおりに進んだ。",
+          "kana": "けいかくどおりに すすんだ。",
+          "id": "Berjalan sesuai rencana."
+        },
+        {
+          "jp": "見たとおり、部屋はきれいだ。",
+          "kana": "みたとおり、へやは きれいだ。",
+          "id": "Seperti yang terlihat, kamar bersih."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa どおり vs とおり"
+      ],
+      "level": "n3",
+      "unit": "minggu-6",
+      "tags": [
+        "cara"
+      ]
     }
   ],
   "dokkai": [
@@ -548,6 +1329,70 @@
       ],
       "level": "n3",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n3-dokkai-2",
+      "judul": "Email ke atasan",
+      "teks": "佐藤課長へ お世話になっております。先日の調査について報告いたします。配達が遅れた原因を調査したところ、システムの不具合と判明しました。すでに修正し、明日までに全ての荷物を配達する予定です。今後は同じ問題が起きないように対策を取ります。ご確認ください。",
+      "terjemah_id": "Untuk Kepala Seksi Sato, terima kasih atas bantuannya. Melaporkan tentang survei kemarin. Setelah menyelidiki penyebab keterlambatan pengantaran, ternyata kerusakan sistem. Sudah diperbaiki dan besok akan antar semua paket. Ke depan akan ambil langkah agar tidak terulang.",
+      "pertanyaan": [
+        {
+          "q": "Apa penyebab keterlambatan?",
+          "opsi": [
+            "Kemacetan",
+            "Kerusakan sistem",
+            "Kekurangan staf",
+            "Cuaca"
+          ],
+          "jawaban": 1,
+          "penjelasan": "システムの不具合."
+        },
+        {
+          "q": "Kapan semua paket akan diantar?",
+          "opsi": [
+            "Hari ini",
+            "Besok",
+            "Minggu depan",
+            "Belum pasti"
+          ],
+          "jawaban": 1,
+          "penjelasan": "明日までに全ての荷物を配達."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-dokkai-3",
+      "judul": "Pengumuman kampus",
+      "teks": "来週の月曜日から図書館の利用時間が変わります。平日は9時から21時まで、土曜日は9時から17時までです。日曜日は休館です。試験期間中は24時間利用できます。詳しくは受付で確認してください。",
+      "terjemah_id": "Mulai Senin minggu depan jam buka perpustakaan berubah. Hari kerja 9-21, Sabtu 9-17, Minggu tutup. Saat periode ujian buka 24 jam. Detail tanya di resepsionis.",
+      "pertanyaan": [
+        {
+          "q": "Kapan tutup?",
+          "opsi": [
+            "Sabtu",
+            "Minggu",
+            "Senin",
+            "Tidak pernah"
+          ],
+          "jawaban": 1,
+          "penjelasan": "日曜日は休館."
+        },
+        {
+          "q": "Saat ujian buka sampai?",
+          "opsi": [
+            "17:00",
+            "21:00",
+            "24 jam",
+            "Tutup"
+          ],
+          "jawaban": 2,
+          "penjelasan": "試験期間中は24時間."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
     }
   ],
   "choukai": [
@@ -571,6 +1416,48 @@
       ],
       "level": "n3",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n3-choukai-2",
+      "judul": "Telepon kantor",
+      "naskah": "A: もしもし、佐藤課長はいらっしゃいますか。 B: 申し訳ありません、佐藤はただいま外出しております。 A: そうですか、では伝言をお願いします。 B: はい、かしこまりました。",
+      "terjemah_id": "A: Halo, apakah Kepala Sato ada? B: Maaf, Sato sedang keluar. A: Begitu ya, tolong sampaikan pesan. B: Baik.",
+      "pertanyaan": [
+        {
+          "q": "Di mana Sato?",
+          "opsi": [
+            "Di kantor",
+            "Keluar",
+            "Sakit",
+            "Rapat di dalam"
+          ],
+          "jawaban": 1,
+          "penjelasan": "外出しております = sedang keluar."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n3-choukai-3",
+      "judul": "Pengumuman stasiun",
+      "naskah": "まもなく電車がまいります。白線の内側でお待ちください。足元にご注意ください。",
+      "terjemah_id": "Kereta segera datang. Mohon tunggu di dalam garis putih. Perhatikan pijakan.",
+      "pertanyaan": [
+        {
+          "q": "Apa yang diminta pengumuman?",
+          "opsi": [
+            "Naik segera",
+            "Tunggu di dalam garis putih",
+            "Pindah peron",
+            "Keluar stasiun"
+          ],
+          "jawaban": 1,
+          "penjelasan": "白線の内側でお待ちください."
+        }
+      ],
+      "level": "n3",
+      "unit": "minggu-6"
     }
   ],
   "quiz": [
@@ -618,6 +1505,118 @@
       ],
       "jawaban": "kesulitan/bingung",
       "penjelasan": "困る = komaru.",
+      "tag": "kotoba",
+      "level": "n3",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n3-quiz-4",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～わけにはいかない artinya?",
+      "opsi": [
+        "pasti",
+        "tidak bisa karena alasan moral",
+        "mungkin",
+        "sudah selesai"
+      ],
+      "jawaban": "tidak bisa karena alasan moral",
+      "penjelasan": "Bukan tidak mampu fisik, tapi tidak bisa secara moral/sosial.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-5",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Mana yang berarti 'seharusnya (moral)'?",
+      "opsi": [
+        "はずだ",
+        "べきだ",
+        "わけだ",
+        "ことになる"
+      ],
+      "jawaban": "べきだ",
+      "penjelasan": "べきだ = kewajiban moral.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-6",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Kebalikan 遅れる adalah?",
+      "opsi": [
+        "速い",
+        "届く",
+        "間に合う",
+        "直る"
+      ],
+      "jawaban": "間に合う",
+      "penjelasan": "遅れる=terlambat, 間に合う=keburu.",
+      "tag": "kotoba",
+      "level": "n3",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n3-quiz-7",
+      "tipe": "tebak_bacaan",
+      "pertanyaan": "Bacaan 調 dalam 調査?",
+      "opsi": [
+        "しらべる",
+        "ちょう",
+        "ちょうさ",
+        "さ"
+      ],
+      "jawaban": "ちょう",
+      "penjelasan": "調査=ちょうさ.",
+      "tag": "kanji",
+      "level": "n3",
+      "kategori": "kanji"
+    },
+    {
+      "id": "n3-quiz-8",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～うちに artinya?",
+      "opsi": [
+        "setelah",
+        "selagi/mumpung",
+        "karena",
+        "walaupun"
+      ],
+      "jawaban": "selagi/mumpung",
+      "penjelasan": "Mumpung masih dalam keadaan itu.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-9",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～ことになる vs ～ことにする?",
+      "opsi": [
+        "Sama saja",
+        "ことになる=keputusan eksternal, ことにする=keputusan sendiri",
+        "Kebalikannya",
+        "Keduanya pasif"
+      ],
+      "jawaban": "ことになる=keputusan eksternal, ことにする=keputusan sendiri",
+      "penjelasan": "Perbedaan kehendak.",
+      "tag": "bunpou",
+      "level": "n3",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n3-quiz-10",
+      "tipe": "tebak_arti",
+      "pertanyaan": "Arti 配達?",
+      "opsi": [
+        "laporan",
+        "pengantaran",
+        "survei",
+        "keputusan"
+      ],
+      "jawaban": "pengantaran",
+      "penjelasan": "配達=はいたつ.",
       "tag": "kotoba",
       "level": "n3",
       "kategori": "kotoba"

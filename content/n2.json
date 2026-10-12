@@ -250,6 +250,431 @@
       ],
       "level": "n2",
       "unit": "minggu-3"
+    },
+    {
+      "char": "許",
+      "onyomi": [
+        "キョ"
+      ],
+      "kunyomi": [
+        "ゆるす"
+      ],
+      "arti_id": "mengizinkan",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "許可",
+          "kana": "きょか",
+          "arti": "izin"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "可",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "arti_id": "dapat",
+      "strokes": 5,
+      "contoh_kata": [
+        {
+          "kata": "可能",
+          "kana": "かのう",
+          "arti": "mungkin"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "否",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "いな"
+      ],
+      "arti_id": "menyangkal",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "否定",
+          "kana": "ひてい",
+          "arti": "penyangkalan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "適",
+      "onyomi": [
+        "テキ"
+      ],
+      "kunyomi": [],
+      "arti_id": "tepat",
+      "strokes": 14,
+      "contoh_kata": [
+        {
+          "kata": "適切",
+          "kana": "てきせつ",
+          "arti": "tepat"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "切",
+      "onyomi": [
+        "セツ",
+        "サイ"
+      ],
+      "kunyomi": [
+        "きる"
+      ],
+      "arti_id": "memotong",
+      "strokes": 4,
+      "contoh_kata": [
+        {
+          "kata": "適切",
+          "kana": "てきせつ",
+          "arti": "tepat"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "範",
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [],
+      "arti_id": "contoh",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "範囲",
+          "kana": "はんい",
+          "arti": "jangkauan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "囲",
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "かこむ"
+      ],
+      "arti_id": "mengelilingi",
+      "strokes": 7,
+      "contoh_kata": [
+        {
+          "kata": "範囲",
+          "kana": "はんい",
+          "arti": "jangkauan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "char": "律",
+      "onyomi": [
+        "リツ"
+      ],
+      "kunyomi": [],
+      "arti_id": "hukum",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "法律",
+          "kana": "ほうりつ",
+          "arti": "hukum"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "制",
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [],
+      "arti_id": "sistem",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "制度",
+          "kana": "せいど",
+          "arti": "sistem"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "規",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [],
+      "arti_id": "aturan",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "規則",
+          "kana": "きそく",
+          "arti": "peraturan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "則",
+      "onyomi": [
+        "ソク"
+      ],
+      "kunyomi": [
+        "のっとる"
+      ],
+      "arti_id": "aturan",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "規則",
+          "kana": "きそく",
+          "arti": "peraturan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "憲",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [],
+      "arti_id": "konstitusi",
+      "strokes": 16,
+      "contoh_kata": [
+        {
+          "kata": "憲法",
+          "kana": "けんぽう",
+          "arti": "konstitusi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "法",
+      "onyomi": [
+        "ホウ",
+        "ハッ"
+      ],
+      "kunyomi": [
+        "のり"
+      ],
+      "arti_id": "hukum",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "憲法",
+          "kana": "けんぽう",
+          "arti": "konstitusi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "裁",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "さばく"
+      ],
+      "arti_id": "memutuskan",
+      "strokes": 12,
+      "contoh_kata": [
+        {
+          "kata": "裁判",
+          "kana": "さいばん",
+          "arti": "pengadilan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "訟",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [],
+      "arti_id": "gugatan",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "訴訟",
+          "kana": "そしょう",
+          "arti": "gugatan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "char": "賠",
+      "onyomi": [
+        "バイ"
+      ],
+      "kunyomi": [],
+      "arti_id": "ganti rugi",
+      "strokes": 15,
+      "contoh_kata": [
+        {
+          "kata": "賠償",
+          "kana": "ばいしょう",
+          "arti": "kompensasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "償",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "つぐなう"
+      ],
+      "arti_id": "menebus",
+      "strokes": 17,
+      "contoh_kata": [
+        {
+          "kata": "賠償",
+          "kana": "ばいしょう",
+          "arti": "kompensasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "革",
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "arti_id": "kulit, reformasi",
+      "strokes": 9,
+      "contoh_kata": [
+        {
+          "kata": "改革",
+          "kana": "かいかく",
+          "arti": "reformasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "新",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あたらしい"
+      ],
+      "arti_id": "baru",
+      "strokes": 13,
+      "contoh_kata": [
+        {
+          "kata": "革新",
+          "kana": "かくしん",
+          "arti": "inovasi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "効",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "きく"
+      ],
+      "arti_id": "efek",
+      "strokes": 8,
+      "contoh_kata": [
+        {
+          "kata": "効果",
+          "kana": "こうか",
+          "arti": "efek"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "率",
+      "onyomi": [
+        "リツ",
+        "ソツ"
+      ],
+      "kunyomi": [
+        "ひきいる"
+      ],
+      "arti_id": "rasio",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "効率",
+          "kana": "こうりつ",
+          "arti": "efisiensi"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "char": "採",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "とる"
+      ],
+      "arti_id": "memungut",
+      "strokes": 11,
+      "contoh_kata": [
+        {
+          "kata": "採用",
+          "kana": "さいよう",
+          "arti": "perekrutan"
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
     }
   ],
   "kotoba": [
@@ -341,6 +766,215 @@
       },
       "level": "n2",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n2-kotoba-7",
+      "kanji": "許可する",
+      "kana": "きょかする",
+      "romaji": "kyoka suru",
+      "arti_id": "mengizinkan",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "写真撮影は許可されていない。",
+        "kana": "しゃしんさつえいは きょかされていない。",
+        "id": "Pemotretan tidak diizinkan."
+      },
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n2-kotoba-8",
+      "kanji": "否定する",
+      "kana": "ひていする",
+      "romaji": "hitei suru",
+      "arti_id": "menyangkal",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "彼の意見を否定した。",
+        "kana": "かれの いけんを ひていした。",
+        "id": "Menyangkal pendapatnya."
+      },
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n2-kotoba-9",
+      "kanji": "適切な",
+      "kana": "てきせつな",
+      "romaji": "tekisetsu na",
+      "arti_id": "tepat, sesuai",
+      "kelas_kata": "adjektiva-na",
+      "contoh_kalimat": {
+        "jp": "適切な対応が必要だ。",
+        "kana": "てきせつな たいおうが ひつようだ。",
+        "id": "Butuh penanganan yang tepat."
+      },
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n2-kotoba-10",
+      "kanji": "範囲",
+      "kana": "はんい",
+      "romaji": "han'i",
+      "arti_id": "jangkauan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "調査の範囲を広げる。",
+        "kana": "ちょうさの はんいを ひろげる。",
+        "id": "Memperluas jangkauan survei."
+      },
+      "level": "n2",
+      "unit": "minggu-4"
+    },
+    {
+      "id": "n2-kotoba-11",
+      "kanji": "法律",
+      "kana": "ほうりつ",
+      "romaji": "houritsu",
+      "arti_id": "hukum",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "法律を守る。",
+        "kana": "ほうりつを まもる。",
+        "id": "Mematuhi hukum."
+      },
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n2-kotoba-12",
+      "kanji": "規則",
+      "kana": "きそく",
+      "romaji": "kisoku",
+      "arti_id": "peraturan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "規則を破った。",
+        "kana": "きそくを やぶった。",
+        "id": "Melanggar peraturan."
+      },
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n2-kotoba-13",
+      "kanji": "裁判",
+      "kana": "さいばん",
+      "romaji": "saiban",
+      "arti_id": "pengadilan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "裁判で争う。",
+        "kana": "さいばんで あらそう。",
+        "id": "Bertarung di pengadilan."
+      },
+      "level": "n2",
+      "unit": "minggu-5"
+    },
+    {
+      "id": "n2-kotoba-14",
+      "kanji": "賠償する",
+      "kana": "ばいしょうする",
+      "romaji": "baishou suru",
+      "arti_id": "mengganti rugi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "損害を賠償する。",
+        "kana": "そんがいを ばいしょうする。",
+        "id": "Mengganti rugi kerusakan."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-15",
+      "kanji": "改革する",
+      "kana": "かいかくする",
+      "romaji": "kaikaku suru",
+      "arti_id": "mereformasi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "制度を改革する。",
+        "kana": "せいどを かいかくする。",
+        "id": "Mereformasi sistem."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-16",
+      "kanji": "革新する",
+      "kana": "かくしんする",
+      "romaji": "kakushin suru",
+      "arti_id": "berinovasi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "技術を革新する。",
+        "kana": "ぎじゅつを かくしんする。",
+        "id": "Menginovasi teknologi."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-17",
+      "kanji": "効率",
+      "kana": "こうりつ",
+      "romaji": "kouritsu",
+      "arti_id": "efisiensi",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "効率を上げる。",
+        "kana": "こうりつを あげる。",
+        "id": "Meningkatkan efisiensi."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-18",
+      "kanji": "採用する",
+      "kana": "さいようする",
+      "romaji": "saiyou suru",
+      "arti_id": "merekrut, mengadopsi",
+      "kelas_kata": "verba suru",
+      "contoh_kalimat": {
+        "jp": "新しい方法を採用した。",
+        "kana": "あたらしい ほうほうを さいようした。",
+        "id": "Mengadopsi metode baru."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-19b",
+      "kana": "むしろ",
+      "romaji": "mushiro",
+      "arti_id": "malahan",
+      "kelas_kata": "adverbia",
+      "contoh_kalimat": {
+        "jp": "むしろ今のほうが忙しい。",
+        "kana": "むしろ いまのほうが いそがしい。",
+        "id": "Malahan sekarang lebih sibuk."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-kotoba-20",
+      "kanji": "訴訟",
+      "kana": "そしょう",
+      "romaji": "soshou",
+      "arti_id": "gugatan",
+      "kelas_kata": "nomina",
+      "contoh_kalimat": {
+        "jp": "訴訟を起こす。",
+        "kana": "そしょうを おこす。",
+        "id": "Mengajukan gugatan."
+      },
+      "level": "n2",
+      "unit": "minggu-6"
     }
   ],
   "bunpou": [
@@ -447,6 +1081,247 @@
       "tags": [
         "risiko"
       ]
+    },
+    {
+      "id": "n2-bunpou-4",
+      "pola": "～ざるを得ない",
+      "arti": "tidak bisa tidak ~",
+      "rumus": "Verba-ない stem + ざるを得ない",
+      "inti_singkat": "Terpaksa, tidak ada pilihan lain.",
+      "penjelasan": "謝らざるを得ない = tidak bisa tidak meminta maaf. Formal dari なければならない.",
+      "perbandingan": "ざるを得ない (terpaksa) vs なければならない (harus) — nuansa lebih tertulis.",
+      "contoh": [
+        {
+          "jp": "この条件では引き受けざるを得ない。",
+          "kana": "このじょうけんでは ひきうけざるをえない。",
+          "id": "Dengan kondisi ini terpaksa menerima."
+        },
+        {
+          "jp": "事実を認めざるを得なかった。",
+          "kana": "じじつを みとめざるをえなかった。",
+          "id": "Terpaksa mengakui fakta."
+        },
+        {
+          "jp": "中止せざるを得ない状況だ。",
+          "kana": "ちゅうしせざるをえない じょうきょうだ。",
+          "id": "Situasi yang memaksa pembatalan."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah bentuk ない",
+        "Lupa を得ない"
+      ],
+      "level": "n2",
+      "unit": "minggu-4",
+      "tags": [
+        "kewajiban"
+      ]
+    },
+    {
+      "id": "n2-bunpou-5",
+      "pola": "～かねる",
+      "arti": "sulit ~, ragu ~",
+      "rumus": "Verba-ます stem + かねる",
+      "inti_singkat": "Sulit melakukan karena alasan tertentu, atau ragu.",
+      "penjelasan": "お答えしかねます = sulit menjawab (sopan menolak). 決めかねる = ragu memutuskan.",
+      "perbandingan": "かねる (sulit/ragu) vs かねない (bisa saja buruk) — beda.",
+      "contoh": [
+        {
+          "jp": "この件はお引き受けしかねます。",
+          "kana": "このけんは おひきうけしかねます。",
+          "id": "Perkara ini sulit saya terima."
+        },
+        {
+          "jp": "どちらが正しいか判断しかねる。",
+          "kana": "どちらが ただしいか はんだんしかねる。",
+          "id": "Sulit menilai mana yang benar."
+        },
+        {
+          "jp": "ご要望には応じかねます。",
+          "kana": "ごようぼうには おうじかねます。",
+          "id": "Sulit memenuhi permintaan Anda."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar かねる dan かねない"
+      ],
+      "level": "n2",
+      "unit": "minggu-4",
+      "tags": [
+        "penolakan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-6",
+      "pola": "～ものだ",
+      "arti": "seharusnya, dulu biasa ~",
+      "rumus": "Verba-る + ものだ",
+      "inti_singkat": "Nasihat umum atau kebiasaan masa lalu.",
+      "penjelasan": "努力するものだ = seharusnya berusaha (nasihat). 子供の頃よく川で遊んだものだ = dulu sering main di sungai (nostalgia).",
+      "perbandingan": "ものだ (nasihat/kebiasaan lampau) vs ことだ (perintah kuat).",
+      "contoh": [
+        {
+          "jp": "困ったときは助け合うものだ。",
+          "kana": "こまったときは たすけあうものだ。",
+          "id": "Saat kesulitan seharusnya saling membantu."
+        },
+        {
+          "jp": "学生は勉強するものだ。",
+          "kana": "がくせいは べんきょうするものだ。",
+          "id": "Pelajar seharusnya belajar."
+        },
+        {
+          "jp": "昔はよくこの公園で遊んだものだ。",
+          "kana": "むかしは よくこのこうえんで あそんだものだ。",
+          "id": "Dulu sering bermain di taman ini."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah pakai もの vs こと"
+      ],
+      "level": "n2",
+      "unit": "minggu-5",
+      "tags": [
+        "nasihat"
+      ]
+    },
+    {
+      "id": "n2-bunpou-7",
+      "pola": "～わけだ",
+      "arti": "pantas saja, jadi ~",
+      "rumus": "Kalimat biasa + わけだ",
+      "inti_singkat": "Menjelaskan alasan yang masuk akal.",
+      "penjelasan": "毎日練習しているから、上手なわけだ = karena latihan tiap hari, pantas jago.",
+      "perbandingan": "わけだ (penjelasan masuk akal) vs はずだ (kesimpulan logis).",
+      "contoh": [
+        {
+          "jp": "道理で静かなわけだ、みんな出かけている。",
+          "kana": "どうりで しずかなわけだ、みんな でかけている。",
+          "id": "Pantas sepi, semua pergi."
+        },
+        {
+          "jp": "彼が選ばれたわけだ、実績があるから。",
+          "kana": "かれが えらばれたわけだ、じっせきがあるから。",
+          "id": "Pantas dia terpilih, ada prestasi."
+        },
+        {
+          "jp": "寒いわけだ、雪が降っている。",
+          "kana": "さむいわけだ、ゆきが ふっている。",
+          "id": "Pantas dingin, salju turun."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar わけだ dan わけではない"
+      ],
+      "level": "n2",
+      "unit": "minggu-5",
+      "tags": [
+        "penjelasan"
+      ]
+    },
+    {
+      "id": "n2-bunpou-8",
+      "pola": "～に際して",
+      "arti": "pada kesempatan ~",
+      "rumus": "Noun + に際して",
+      "inti_singkat": "Formal: ketika melakukan sesuatu yang penting.",
+      "penjelasan": "契約に際して注意すべき点 = hal yang perlu diperhatikan saat kontrak.",
+      "perbandingan": "に際して (formal, momen penting) vs とき (umum).",
+      "contoh": [
+        {
+          "jp": "入社に際して挨拶する。",
+          "kana": "にゅうしゃにさいして あいさつする。",
+          "id": "Memberi salam pada saat masuk perusahaan."
+        },
+        {
+          "jp": "利用に際して規約を確認してください。",
+          "kana": "りようにさいして きやくを かくにんしてください。",
+          "id": "Saat menggunakan, cek syarat."
+        },
+        {
+          "jp": "会議に際して資料を配る。",
+          "kana": "かいぎにさいして しりょうを くばる。",
+          "id": "Membagikan materi pada rapat."
+        }
+      ],
+      "kesalahan_umum": [
+        "Salah baca さいして",
+        "Pakai untuk hal sepele (tidak natural)"
+      ],
+      "level": "n2",
+      "unit": "minggu-6",
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "n2-bunpou-9",
+      "pola": "～を踏まえて",
+      "arti": "berdasarkan, mempertimbangkan",
+      "rumus": "Noun + を踏まえて",
+      "inti_singkat": "Dengan mempertimbangkan ~, lalu bertindak.",
+      "penjelasan": "調査結果を踏まえて計画を立てる = membuat rencana berdasarkan hasil survei.",
+      "perbandingan": "を踏まえて (mempertimbangkan lalu bertindak) vs に基づいて (berdasarkan).",
+      "contoh": [
+        {
+          "jp": "意見を踏まえて修正する。",
+          "kana": "いけんを ふまえて しゅうせいする。",
+          "id": "Memperbaiki dengan mempertimbangkan opini."
+        },
+        {
+          "jp": "経験を踏まえて判断した。",
+          "kana": "けいけんを ふまえて はんだんした。",
+          "id": "Menilai berdasarkan pengalaman."
+        },
+        {
+          "jp": "データを踏まえて提案する。",
+          "kana": "データを ふまえて ていあんする。",
+          "id": "Mengusulkan berdasarkan data."
+        }
+      ],
+      "kesalahan_umum": [
+        "Lupa を",
+        "Salah baca ふまえて"
+      ],
+      "level": "n2",
+      "unit": "minggu-6",
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "n2-bunpou-10",
+      "pola": "～にかけては",
+      "arti": "dalam hal ~, soal ~",
+      "rumus": "Noun + にかけては",
+      "inti_singkat": "Menekankan keahlian/keunggulan di bidang itu.",
+      "penjelasan": "料理にかけては誰にも負けない = soal masak, tidak kalah dengan siapa pun.",
+      "perbandingan": "にかけては (keunggulan) vs については (tentang).",
+      "contoh": [
+        {
+          "jp": "彼はサッカーにかけてはプロだ。",
+          "kana": "かれは サッカーにかけては プロだ。",
+          "id": "Soal sepak bola dia pro."
+        },
+        {
+          "jp": "記憶力にかけては自信がある。",
+          "kana": "きおくりょくにかけては じしんがある。",
+          "id": "Soal daya ingat, percaya diri."
+        },
+        {
+          "jp": "この分野にかけては第一人者だ。",
+          "kana": "このぶんやにかけては だいいちにんしゃだ。",
+          "id": "Di bidang ini dia yang terdepan."
+        }
+      ],
+      "kesalahan_umum": [
+        "Tertukar にかけては dan については"
+      ],
+      "level": "n2",
+      "unit": "minggu-6",
+      "tags": [
+        "penekanan"
+      ]
     }
   ],
   "dokkai": [
@@ -470,6 +1345,70 @@
       ],
       "level": "n2",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n2-dokkai-2",
+      "judul": "Kebijakan perusahaan",
+      "teks": "当社は、効率を重視するあまり、適切な手続きを踏まずに契約を進めてしまった。その結果、顧客に損害を与え、賠償を余儀なくされた。今回の件を踏まえて、規則を改定し、再発防止に努める。契約に際しては、必ず法務部の確認を得るものとする。",
+      "terjemah_id": "Karena terlalu fokus efisiensi, perusahaan melanjutkan kontrak tanpa prosedur yang tepat. Akibatnya merugikan pelanggan dan terpaksa memberi kompensasi. Berdasarkan kasus ini, peraturan direvisi dan dicegah terulang. Saat kontrak harus dapat konfirmasi bagian hukum.",
+      "pertanyaan": [
+        {
+          "q": "Mengapa harus memberi kompensasi?",
+          "opsi": [
+            "Karena melanggar prosedur dan merugikan pelanggan",
+            "Karena telat kirim",
+            "Karena harga naik",
+            "Karena bencana"
+          ],
+          "jawaban": 0,
+          "penjelasan": "適切な手続きを踏まず ... 損害を与え."
+        },
+        {
+          "q": "Apa yang wajib saat kontrak ke depan?",
+          "opsi": [
+            "Langsung tanda tangan",
+            "Dapat konfirmasi bagian hukum",
+            "Batalkan semua",
+            "Naikkan harga"
+          ],
+          "jawaban": 1,
+          "penjelasan": "契約に際しては、必ず法務部の確認を得るものとする."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-dokkai-3",
+      "judul": "Opini teknologi",
+      "teks": "革新が速すぎると、人は適応しかねる場合がある。便利さだけを追求すると、かえって効率が下がりかねない。技術は人を助けるものだという原点を忘れてはならない。",
+      "terjemah_id": "Jika inovasi terlalu cepat, orang bisa kesulitan beradaptasi. Jika hanya mengejar kemudahan, malah bisa menurunkan efisiensi. Jangan lupa prinsip: teknologi adalah untuk membantu manusia.",
+      "pertanyaan": [
+        {
+          "q": "Apa risikonya jika inovasi terlalu cepat?",
+          "opsi": [
+            "Orang bisa kesulitan beradaptasi",
+            "Pasti berhasil",
+            "Tidak ada risiko",
+            "Semua setuju"
+          ],
+          "jawaban": 0,
+          "penjelasan": "適応しかねる."
+        },
+        {
+          "q": "Apa prinsip penulis?",
+          "opsi": [
+            "Teknologi untuk membantu manusia",
+            "Teknologi untuk menggantikan manusia",
+            "Teknologi harus mahal",
+            "Teknologi tidak penting"
+          ],
+          "jawaban": 0,
+          "penjelasan": "技術は人を助けるものだ."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
     }
   ],
   "choukai": [
@@ -493,6 +1432,48 @@
       ],
       "level": "n2",
       "unit": "minggu-3"
+    },
+    {
+      "id": "n2-choukai-2",
+      "judul": "Rapat hukum",
+      "naskah": "A: この契約は法律に触れかねないので、法務に確認せざるを得ません。 B: わかりました、すぐに法務部に連絡します。 A: 規則を踏まえて判断してください。",
+      "terjemah_id": "A: Kontrak ini bisa melanggar hukum, jadi terpaksa harus konfirmasi ke legal. B: Baik, segera hubungi bagian hukum. A: Tolong nilai dengan mempertimbangkan peraturan.",
+      "pertanyaan": [
+        {
+          "q": "Apa yang harus dilakukan?",
+          "opsi": [
+            "Langsung tanda tangan",
+            "Konfirmasi ke bagian hukum",
+            "Batalkan tanpa konfirmasi",
+            "Abaikan hukum"
+          ],
+          "jawaban": 1,
+          "penjelasan": "法務に確認せざるを得ません."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
+    },
+    {
+      "id": "n2-choukai-3",
+      "judul": "Presentasi inovasi",
+      "naskah": "発表者：効率を上げるために新しい制度を採用しました。しかし、現場の声を踏まえずに進めたため、かえって混乱を招きかねない状況です。今後は現場にかけては経験豊富な社員の意見を取り入れます。",
+      "terjemah_id": "Presenter: Mengadopsi sistem baru untuk efisiensi. Tapi karena maju tanpa mempertimbangkan suara lapangan, bisa menimbulkan kekacauan. Ke depan akan ambil opini karyawan berpengalaman soal lapangan.",
+      "pertanyaan": [
+        {
+          "q": "Apa risikonya?",
+          "opsi": [
+            "Bisa menimbulkan kekacauan",
+            "Pasti sukses",
+            "Tidak ada risiko",
+            "Semua senang"
+          ],
+          "jawaban": 0,
+          "penjelasan": "混乱を招きかねない."
+        }
+      ],
+      "level": "n2",
+      "unit": "minggu-6"
     }
   ],
   "quiz": [
@@ -524,6 +1505,134 @@
       ],
       "jawaban": "を余儀なくされる",
       "penjelasan": "Terpaksa karena keadaan.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-3",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～ざるを得ない artinya?",
+      "opsi": [
+        "tidak bisa tidak/terpaksa",
+        "mungkin",
+        "pasti tidak",
+        "sudah selesai"
+      ],
+      "jawaban": "tidak bisa tidak/terpaksa",
+      "penjelasan": "Formal untuk terpaksa.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-4",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～かねる artinya?",
+      "opsi": [
+        "bisa saja buruk",
+        "sulit/ragu (sopan)",
+        "pasti",
+        "sedang berlangsung"
+      ],
+      "jawaban": "sulit/ragu (sopan)",
+      "penjelasan": "お答えしかねます = sulit menjawab.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-5",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Arti 適切?",
+      "opsi": [
+        "tidak tepat",
+        "tepat/sesuai",
+        "terlalu banyak",
+        "terlambat"
+      ],
+      "jawaban": "tepat/sesuai",
+      "penjelasan": "適切=てきせつ.",
+      "tag": "kotoba",
+      "level": "n2",
+      "kategori": "kotoba"
+    },
+    {
+      "id": "n2-quiz-6",
+      "tipe": "tebak_bacaan",
+      "pertanyaan": "Bacaan 賠 dalam 賠償?",
+      "opsi": [
+        "ばい",
+        "はい",
+        "しょう",
+        "ばん"
+      ],
+      "jawaban": "ばい",
+      "penjelasan": "賠償=ばいしょう.",
+      "tag": "kanji",
+      "level": "n2",
+      "kategori": "kanji"
+    },
+    {
+      "id": "n2-quiz-7",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～ものだ (nasihat) dipakai untuk?",
+      "opsi": [
+        "perintah kasar",
+        "nasihat umum/kebiasaan lampau",
+        "larangan",
+        "dugaan"
+      ],
+      "jawaban": "nasihat umum/kebiasaan lampau",
+      "penjelasan": "学生は勉強するものだ.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-8",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～に際して dipakai kapan?",
+      "opsi": [
+        "hal sepele sehari-hari",
+        "momen penting/formal",
+        "hanya untuk cuaca",
+        "tidak pernah"
+      ],
+      "jawaban": "momen penting/formal",
+      "penjelasan": "Formal untuk kesempatan penting.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-9",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～を踏まえて artinya?",
+      "opsi": [
+        "menginjak",
+        "berdasarkan/menimbang lalu bertindak",
+        "mengabaikan",
+        "melupakan"
+      ],
+      "jawaban": "berdasarkan/menimbang lalu bertindak",
+      "penjelasan": "Dengan mempertimbangkan.",
+      "tag": "bunpou",
+      "level": "n2",
+      "kategori": "bunpou"
+    },
+    {
+      "id": "n2-quiz-10",
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "～にかけては menekankan?",
+      "opsi": [
+        "kelemahan",
+        "keunggulan di bidang itu",
+        "waktu",
+        "tempat"
+      ],
+      "jawaban": "keunggulan di bidang itu",
+      "penjelasan": "料理にかけては誰にも負けない.",
       "tag": "bunpou",
       "level": "n2",
       "kategori": "bunpou"
