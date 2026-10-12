@@ -8,6 +8,7 @@ export default function PwaInstall(){
   const [installed, setInstalled] = useState(false);
   const [offline, setOffline] = useState(false);
   const [dismissed, setDismissed] = useState(false);
+  const [isIos, setIsIos] = useState(false);
 
   useEffect(()=>{
     const onBefore = (e: Event) => {
@@ -24,6 +25,8 @@ export default function PwaInstall(){
     setOffline(!navigator.onLine);
     // already installed (standalone)?
     if (window.matchMedia("(display-mode: standalone)").matches) setInstalled(true);
+    const ua = navigator.userAgent;
+    setIsIos(/iPad|iPhone|iPod/.test(ua) && !(window as unknown as { MSStream?: unknown }).MSStream);
     // dismissed persisted
     try { if (localStorage.getItem("pwa-dismissed")==="1") setDismissed(true); } catch {}
     return ()=>{
@@ -62,6 +65,16 @@ export default function PwaInstall(){
           </div>
           <button onClick={install} className="primary text-sm whitespace-nowrap">Install</button>
           <button onClick={dismiss} className="secondary text-sm px-3 py-2">Nanti</button>
+        </div>
+      )}
+      {!installed && !deferred && isIos && !dismissed && (
+        <div className="fixed bottom-[76px] lg:bottom-4 left-4 right-4 lg:left-auto lg:right-4 lg:max-w-[420px] z-40 cartoon-card yellow flex gap-3 items-center">
+          <div className="w-10 h-10 rounded-xl bg-white border-[2.5px] border-[var(--ink)] grid place-items-center font-black shadow-[2px_2px_0_var(--ink)]">🍎</div>
+          <div className="flex-1 min-w-0">
+            <div className="font-black text-sm" style={{fontFamily:"var(--font-display)"}}>Tambah ke layar utama (iPhone)</div>
+            <div className="text-xs" style={{color:"var(--muted)"}}>Tap <span className="font-bold">Bagikan ⬆️</span> → <span className="font-bold">Tambah ke Layar Utama</span></div>
+          </div>
+          <button onClick={dismiss} className="secondary text-sm px-3 py-2">OK</button>
         </div>
       )}
       {installed && (
